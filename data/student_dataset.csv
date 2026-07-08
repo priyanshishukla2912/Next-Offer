@@ -1,0 +1,1001 @@
+name,college,branch,cgpa,skills,projects,internships,target_role,certifications,communication,resume_score,readiness_score,placement_status
+Abhishek Saxena,KIET,ME,7.7,"C++, React, FastAPI, Git, NumPy, Java, SQL",3,1,AI Engineer,1,95,64,79,Placed
+Shivam Sethi,Bennett University,ME,8.89,"Git, SQL, AWS, MongoDB, Flask",2,0,Data Analyst,4,60,67,70,Not Placed
+Rahul Sethi,Thapar,ME,7.43,"Power BI, AWS, FastAPI, PyTorch, MongoDB, React",2,2,Data Analyst,3,94,69,82,Placed
+Pooja Bhat,KIET,ME,8.49,"TensorFlow, HTML, Excel, NumPy, Java",3,0,Frontend Developer,2,86,64,80,Placed
+Dhruv Goel,ABES,IT,6.44,"Excel, Flask, C++, Java, MongoDB, Power BI",1,0,DevOps Engineer,3,89,59,54,Not Placed
+Nandini Rao,Galgotias University,ECE,8.46,"React, Pandas, Excel, C++, CSS",2,1,Java Developer,1,65,66,65,Not Placed
+Aryan Goel,Galgotias University,AIML,7.82,"CSS, HTML, React, Flask",3,0,AI Engineer,2,84,65,76,Placed
+Aarav Dubey,AKGEC,CSE,8.15,"Flask, Git, Pandas, Linux, Azure, AWS, SQL",2,0,Product Engineer,2,92,60,77,Placed
+Shivam Das,"JSS Academy of Technical Education, Noida",AIML,8.18,"PyTorch, Azure, Python, C++",2,1,ML Engineer,2,79,61,70,Not Placed
+Krishna Rao,SRM,CE,8.26,"MongoDB, C++, HTML, SQL, TensorFlow, Node.js, Excel",3,0,Data Analyst,3,65,63,73,Not Placed
+Riya Verma,ABES,IT,8.45,"Docker, PyTorch, CSS, Flask, React, Git",5,0,Database Engineer,3,59,80,76,Placed
+Ira Nigam,Chandigarh University,AI & DS,7.63,"Docker, Excel, PyTorch, Python, Node.js",3,1,Product Engineer,0,70,65,68,Not Placed
+Diya Kulkarni,Galgotias University,IT,7.19,"Excel, JavaScript, TensorFlow, Azure, Python",0,0,Product Engineer,2,80,50,53,Not Placed
+Neil Mehta,VIT Vellore,EEE,8.0,"Pandas, Power BI, C++, CSS",2,0,Data Analyst,0,70,58,60,Not Placed
+Priyanshi Verma,AKGEC,CSE,8.91,"Linux, SQL, Docker, HTML",4,1,Python Developer,1,88,74,82,Placed
+Sara Kulkarni,Amity,ME,8.15,"Java, PyTorch, Power BI, Flask, AWS",2,0,Android Developer,3,73,62,68,Not Placed
+Tanish Nigam,AKGEC,AIML,8.21,"Azure, SQL, Git, Java, TensorFlow, Docker, Linux",3,0,Database Engineer,1,69,58,76,Placed
+Neha Mishra,Amity,CSE,8.1,"Power BI, TensorFlow, Azure, Docker",2,1,Android Developer,2,64,69,71,Not Placed
+Meera Sinha,Jaypee,AI & DS,6.96,"HTML, NumPy, SQL, Pandas, Power BI, TensorFlow, C++",3,0,AI Engineer,2,91,64,70,Not Placed
+Kavya Yadav,SRM,AI & DS,8.06,"Pandas, Excel, CSS, Flask",3,1,AI Engineer,3,81,70,77,Placed
+Aditi Bhatt,GLA University,CE,8.71,"FastAPI, Python, Pandas, TensorFlow, Docker, MongoDB, AWS",2,0,Frontend Developer,2,63,60,64,Not Placed
+Ananya Menon,VIT Vellore,ECE,8.27,"HTML, Git, Docker, AWS, Excel, TensorFlow, C++",2,0,Cloud Engineer,2,69,59,75,Not Placed
+Arjun Pandey,KIET,ECE,7.62,"Power BI, Python, TensorFlow, Git",3,2,Python Developer,1,74,71,78,Placed
+Neil Sinha,AKGEC,AI & DS,7.73,"Linux, MongoDB, Docker, JavaScript, Flask, Power BI",2,0,Android Developer,0,68,55,56,Not Placed
+Tanvi Pandey,Galgotias University,CE,7.71,"Power BI, SQL, Flask, Linux, NumPy",4,1,Product Engineer,1,59,77,73,Not Placed
+Simran Das,"JSS Academy of Technical Education, Noida",AIML,8.57,"C++, Linux, Node.js, NumPy",2,1,Data Analyst,2,70,63,75,Placed
+Arjun Patel,SRM,AIML,7.5,"Node.js, Power BI, Python, PyTorch, TensorFlow",1,0,Database Engineer,1,73,52,54,Not Placed
+Abhishek Bhat,Amity,AI & DS,9.52,"Docker, Python, C++, Node.js, HTML",3,1,Business Analyst,2,79,72,82,Placed
+Om Singh,Jaypee,ME,7.37,"Excel, HTML, MongoDB, Azure, Flask, Java",3,0,Android Developer,1,91,60,73,Not Placed
+Shivam Bhatt,Manipal Jaipur,AI & DS,7.75,"Python, Java, HTML, Linux",0,1,QA Engineer,3,90,53,74,Not Placed
+Rahul Rao,"JSS Academy of Technical Education, Noida",CE,8.43,"Docker, Git, C++, Flask",1,0,Android Developer,0,73,53,63,Not Placed
+Rohan Tripathi,SRM,CE,7.9,"C++, Excel, MongoDB, Java, JavaScript, FastAPI, HTML",3,0,Cyber Security Analyst,4,71,67,78,Placed
+Diya Joshi,SRM,ECE,7.59,"Power BI, FastAPI, Flask, SQL, Git, JavaScript",2,0,DevOps Engineer,2,64,58,67,Not Placed
+Karan Tripathi,Jaypee,AI & DS,8.78,"AWS, C++, HTML, Docker",2,1,Cloud Engineer,0,86,61,77,Placed
+Ankit Jain,Jaypee,CE,7.0,"Python, CSS, FastAPI, Excel, Power BI, Pandas, MongoDB",1,0,Data Scientist,2,81,53,61,Not Placed
+Tanish Mehta,Jaypee,AI & DS,7.61,"MongoDB, Node.js, PyTorch, C++",3,0,Business Analyst,3,79,68,66,Not Placed
+Dev Sethi,Bennett University,AIML,9.52,"Node.js, NumPy, Docker, TensorFlow, JavaScript",4,1,QA Engineer,0,75,68,80,Placed
+Avni Bhatt,Chandigarh University,IT,8.99,"NumPy, Power BI, Azure, HTML",1,0,DevOps Engineer,0,93,54,71,Not Placed
+Sakshi Gupta,Thapar,ECE,8.76,"Linux, React, MongoDB, Excel, Git, Pandas, SQL",2,1,Data Analyst,3,76,67,77,Placed
+Akash Tiwari,AKGEC,AI & DS,8.74,"C++, CSS, TensorFlow, Git, React",3,1,QA Engineer,0,86,67,86,Placed
+Diya Arora,IIIT Lucknow,CSE,7.95,"Node.js, AWS, PyTorch, HTML, Docker, Flask, JavaScript",3,1,Frontend Developer,1,91,67,77,Placed
+Harsh Bhat,VIT Vellore,CE,7.04,"Python, C++, Pandas, Docker, Power BI, AWS, React",3,0,Backend Developer,2,59,62,55,Not Placed
+Ritika Saxena,"JSS Academy of Technical Education, Noida",AIML,9.13,"AWS, Java, Linux, FastAPI, MongoDB",5,2,Data Scientist,3,87,85,95,Placed
+Shivam Chauhan,Galgotias University,ME,7.06,"React, Azure, Python, Linux, Git, MongoDB",2,1,Java Developer,1,77,67,68,Not Placed
+Harsh Malhotra,Chandigarh University,ECE,6.88,"Python, JavaScript, Excel, Flask",0,0,Python Developer,2,73,48,54,Not Placed
+Karan Chauhan,Galgotias University,CSE,8.02,"Docker, C++, JavaScript, Excel, Linux, MongoDB",4,0,ML Engineer,3,79,73,76,Placed
+Ritika Shukla,Jaypee,CSE,8.14,"Pandas, Java, JavaScript, Python, Azure",4,0,Data Scientist,5,89,73,80,Placed
+Tanish Gupta,Jaypee,AIML,7.77,"JavaScript, CSS, Linux, Docker, Power BI, Java",2,0,DevOps Engineer,2,78,56,62,Not Placed
+Muskan Rao,GLA University,ME,9.13,"Git, JavaScript, Pandas, PyTorch",0,0,DevOps Engineer,2,63,49,62,Not Placed
+Myra Bhatt,Jaypee,CE,8.97,"Linux, NumPy, React, Pandas",3,1,Full Stack Developer,3,86,71,85,Placed
+Dev Singh,Bennett University,EEE,6.49,"Node.js, FastAPI, TensorFlow, MongoDB",3,1,Software Engineer,2,62,71,60,Not Placed
+Rudra Chawla,Chandigarh University,CE,8.88,"Node.js, NumPy, Excel, HTML, Linux, CSS, Python",1,1,DevOps Engineer,1,72,55,74,Not Placed
+Myra Saxena,VIT Vellore,AIML,7.34,"NumPy, C++, Linux, Java, Excel",2,0,Database Engineer,3,63,65,59,Not Placed
+Simran Malhotra,VIT Vellore,CE,8.35,"CSS, React, HTML, NumPy, Power BI, Flask, SQL",3,1,DevOps Engineer,2,63,69,70,Not Placed
+Yash Sinha,Galgotias University,AIML,7.19,"AWS, JavaScript, TensorFlow, C++, Pandas, Node.js",2,0,AI Engineer,1,73,55,58,Not Placed
+Ansh Chopra,Jaypee,AI & DS,8.07,"PyTorch, Java, MongoDB, React, SQL, Flask, JavaScript",4,0,ML Engineer,0,64,61,70,Not Placed
+Rohan Reddy,Manipal Jaipur,EEE,7.4,"Java, PyTorch, TensorFlow, HTML, JavaScript",2,0,Cloud Engineer,0,58,52,61,Not Placed
+Aditya Chawla,Manipal Jaipur,ECE,7.7,"JavaScript, Java, Excel, Git",0,1,Product Engineer,0,84,52,59,Not Placed
+Rohan Ghosh,Chandigarh University,ECE,8.55,"MongoDB, Flask, FastAPI, NumPy, Java, Linux, PyTorch",3,0,Python Developer,1,63,60,71,Not Placed
+Tanish Verma,VIT Vellore,AIML,9.68,"SQL, C++, Pandas, AWS, PyTorch, Power BI, CSS",0,0,Data Scientist,2,83,48,70,Not Placed
+Aarav Gupta,AKGEC,EEE,6.81,"CSS, Docker, FastAPI, C++, SQL, Pandas",2,1,Product Engineer,1,81,67,60,Not Placed
+Dhruv Kulkarni,VIT Vellore,IT,7.41,"Linux, React, Azure, Pandas, JavaScript",4,2,Product Engineer,2,78,77,82,Placed
+Ishita Arora,Chandigarh University,AI & DS,8.06,"Git, Flask, Java, TensorFlow",3,0,Backend Developer,1,65,60,65,Not Placed
+Dev Chawla,VIT Vellore,EEE,6.4,"Docker, Power BI, CSS, Python, Azure, Excel, Flask",3,1,AI Engineer,0,77,65,62,Not Placed
+Palak Pillai,GLA University,ME,8.07,"C++, Power BI, Docker, Linux, Java, AWS",1,1,Data Scientist,3,64,59,64,Not Placed
+Karan Malhotra,ABES,IT,8.07,"JavaScript, HTML, Excel, MongoDB",1,1,Data Analyst,2,82,58,65,Not Placed
+Tanvi Menon,Bennett University,CE,8.58,"AWS, Node.js, Azure, Docker, React",3,1,Cyber Security Analyst,1,75,71,74,Not Placed
+Ankit Singh,IIIT Lucknow,ECE,8.16,"Docker, Java, Linux, PyTorch",3,0,Java Developer,1,78,64,68,Not Placed
+Varun Chopra,VIT Vellore,EEE,6.45,"PyTorch, TensorFlow, C++, Power BI, React",1,2,Data Analyst,4,83,71,65,Not Placed
+Krishna Gupta,"JSS Academy of Technical Education, Noida",AI & DS,7.62,"MongoDB, Azure, Linux, NumPy, Docker",4,0,QA Engineer,5,95,76,86,Not Placed
+Kabir Gupta,KIET,EEE,8.29,"NumPy, AWS, MongoDB, HTML, JavaScript",3,0,QA Engineer,1,58,63,66,Not Placed
+Krishna Tripathi,Thapar,AIML,7.97,"Pandas, Node.js, Python, Java, Git, PyTorch",2,1,Java Developer,0,86,58,67,Not Placed
+Parth Chopra,AKGEC,AI & DS,7.84,"Java, SQL, Python, Azure, Git",1,1,ML Engineer,1,92,54,71,Not Placed
+Sneha Ghosh,KIET,ECE,8.24,"Excel, FastAPI, Git, Python",4,0,Business Analyst,1,69,71,71,Not Placed
+Ayaan Bhatt,Galgotias University,CSE,7.87,"TensorFlow, FastAPI, Node.js, Java",1,0,Cloud Engineer,0,72,48,59,Not Placed
+Shivam Goel,Jaypee,CSE,7.38,"Node.js, React, JavaScript, CSS, TensorFlow",1,2,ML Engineer,0,76,61,61,Not Placed
+Zoya Rao,Chandigarh University,CSE,7.62,"NumPy, React, AWS, MongoDB",3,1,ML Engineer,0,92,69,75,Placed
+Aryan Pillai,Jaypee,AIML,7.01,"HTML, Python, Flask, Java, FastAPI, Azure",2,1,Frontend Developer,2,65,62,66,Not Placed
+Aman Singh,VIT Vellore,IT,8.88,"JavaScript, SQL, Java, Linux, C++",3,0,DevOps Engineer,3,92,63,89,Placed
+Avni Nair,Jaypee,EEE,7.7,"MongoDB, Azure, Python, NumPy, Linux, Flask, Docker",3,0,Backend Developer,3,76,62,76,Placed
+Nikhil Tripathi,VIT Vellore,CSE,7.62,"MongoDB, Java, Python, PyTorch, Excel",1,1,Backend Developer,4,63,64,63,Not Placed
+Sakshi Pandey,Chandigarh University,AI & DS,8.95,"CSS, SQL, Linux, C++, Excel, Git, Flask",2,1,Cyber Security Analyst,1,94,61,80,Placed
+Nikhil Mishra,Bennett University,ECE,7.25,"Git, Docker, CSS, Pandas, React, Power BI, HTML",3,1,Database Engineer,1,59,69,62,Not Placed
+Parth Chawla,GLA University,AIML,7.45,"Power BI, Node.js, AWS, React, HTML, TensorFlow, FastAPI",1,0,AI Engineer,2,86,58,69,Not Placed
+Ansh Kulkarni,Amity,EEE,7.75,"React, TensorFlow, JavaScript, Node.js, SQL",4,1,Data Analyst,0,67,70,77,Placed
+Muskan Mishra,Galgotias University,IT,8.05,"Node.js, JavaScript, Pandas, Power BI",3,1,Full Stack Developer,2,77,72,74,Not Placed
+Aarav Das,AKGEC,ECE,8.42,"Python, React, NumPy, AWS, Azure, Linux, Flask",1,1,AI Engineer,5,76,69,71,Not Placed
+Khushi Bhatt,SRM,CE,7.47,"Azure, NumPy, Docker, Flask",4,1,Data Analyst,2,83,73,75,Placed
+Kabir Malhotra,Galgotias University,AIML,8.04,"Docker, PyTorch, SQL, AWS, Power BI",1,0,Database Engineer,2,60,54,64,Not Placed
+Nisha Tripathi,Thapar,AIML,6.76,"Docker, SQL, Azure, PyTorch, Java, Node.js, Git",2,1,Business Analyst,0,84,64,60,Not Placed
+Aryan Gupta,Galgotias University,ECE,8.73,"Docker, React, Pandas, Power BI, JavaScript, CSS, HTML",2,0,Frontend Developer,2,80,59,70,Not Placed
+Reyansh Kulkarni,Bennett University,AIML,6.89,"PyTorch, React, Node.js, Pandas, Linux, NumPy, CSS",3,1,Product Engineer,5,80,78,74,Not Placed
+Aarav Sinha,Jaypee,ECE,7.17,"Java, C++, AWS, TensorFlow, HTML, Docker, PyTorch",4,0,Software Engineer,3,63,72,63,Not Placed
+Muskan Sharma,SRM,EEE,7.98,"JavaScript, Pandas, Git, CSS, Azure",3,0,Frontend Developer,3,95,64,75,Placed
+Muskan Goel,Thapar,IT,8.26,"Node.js, NumPy, React, HTML",0,1,Product Engineer,3,91,54,79,Placed
+Sakshi Goel,Chandigarh University,CSE,8.74,"TensorFlow, Power BI, FastAPI, AWS, Excel",3,1,DevOps Engineer,3,89,70,87,Placed
+Vihaan Shukla,Manipal Jaipur,CSE,7.31,"SQL, Docker, Excel, Linux, HTML, Java",3,1,ML Engineer,1,81,64,64,Not Placed
+Nandini Ghosh,IIIT Lucknow,AI & DS,7.39,"NumPy, TensorFlow, FastAPI, Node.js, Git, Java",2,1,DevOps Engineer,1,88,67,72,Not Placed
+Yash Mehta,Thapar,CE,8.28,"TensorFlow, JavaScript, FastAPI, MongoDB",1,0,Data Scientist,1,90,53,66,Not Placed
+Om Patel,Bennett University,IT,7.95,"Java, JavaScript, Excel, Azure",2,0,Full Stack Developer,0,92,51,69,Not Placed
+Avni Nigam,Thapar,CE,8.83,"SQL, Flask, CSS, Java, NumPy",1,0,Backend Developer,0,63,49,59,Not Placed
+Neil Sharma,VIT Vellore,CSE,6.89,"Python, NumPy, AWS, Linux, Java, Excel",4,1,Android Developer,0,74,71,63,Not Placed
+Aditya Agarwal,VIT Vellore,AIML,8.02,"NumPy, Git, SQL, C++, Excel, JavaScript, HTML",1,0,Software Engineer,0,62,48,63,Not Placed
+Kavya Sharma,Bennett University,AI & DS,9.09,"CSS, Java, PyTorch, HTML, C++, MongoDB, Excel",2,2,Java Developer,1,71,66,77,Placed
+Muskan Chauhan,Bennett University,AIML,8.13,"Azure, Java, TensorFlow, PyTorch, AWS, Power BI, Excel",2,1,Data Analyst,2,63,67,68,Not Placed
+Sneha Agarwal,IIIT Lucknow,EEE,7.15,"Node.js, Java, Azure, Linux, TensorFlow, Python",4,0,Data Scientist,1,82,70,67,Not Placed
+Parth Joshi,SRM,ECE,6.01,"TensorFlow, Node.js, NumPy, CSS",1,1,Full Stack Developer,3,82,61,65,Not Placed
+Yash Saxena,Amity,IT,8.51,"Pandas, JavaScript, React, MongoDB, Java, FastAPI, Power BI",0,0,ML Engineer,1,93,50,68,Not Placed
+Diya Sethi,VIT Vellore,ECE,7.91,"Excel, Docker, AWS, JavaScript, Azure, Linux",0,0,ML Engineer,2,80,48,60,Not Placed
+Karan Pandey,"JSS Academy of Technical Education, Noida",CE,8.13,"SQL, PyTorch, Linux, Power BI, C++, HTML",1,0,Cyber Security Analyst,1,91,50,66,Not Placed
+Parth Verma,Bennett University,ECE,7.36,"SQL, Power BI, AWS, Azure, HTML, Node.js, Java",4,1,Cyber Security Analyst,2,94,78,82,Placed
+Meera Pandey,ABES,ME,7.76,"FastAPI, C++, Node.js, TensorFlow",2,1,AI Engineer,2,87,68,69,Not Placed
+Akash Patel,Chandigarh University,AI & DS,9.05,"Java, Node.js, PyTorch, Git, Python",2,0,Full Stack Developer,2,68,60,71,Not Placed
+Diya Nigam,"JSS Academy of Technical Education, Noida",AI & DS,7.61,"AWS, FastAPI, Power BI, SQL, Excel, TensorFlow",1,1,QA Engineer,1,67,59,69,Not Placed
+Diya Rao,Galgotias University,CSE,8.55,"React, C++, Azure, PyTorch, HTML",3,1,Java Developer,2,67,66,78,Placed
+Shivam Yadav,Galgotias University,CSE,7.2,"FastAPI, Power BI, Git, HTML, Node.js",3,1,Python Developer,0,81,64,67,Not Placed
+Tanish Bhat,SRM,CE,8.26,"HTML, Docker, Java, Linux",3,1,ML Engineer,1,68,68,75,Not Placed
+Varun Tripathi,Jaypee,AI & DS,8.11,"Pandas, MongoDB, NumPy, CSS",2,1,Full Stack Developer,0,85,61,70,Not Placed
+Vihaan Srivastava,ABES,ECE,8.6,"PyTorch, NumPy, Java, JavaScript, Node.js",4,0,Data Analyst,2,90,67,83,Not Placed
+Priyanshi Pandey,Bennett University,AIML,7.33,"HTML, Azure, Flask, FastAPI, Linux",2,1,ML Engineer,3,63,70,72,Not Placed
+Om Joshi,GLA University,EEE,7.99,"Linux, Excel, C++, Python, NumPy, Flask",3,0,Data Scientist,0,61,64,71,Not Placed
+Sara Sinha,SRM,IT,7.91,"PyTorch, FastAPI, React, TensorFlow",4,1,Business Analyst,1,81,69,77,Placed
+Laksh Gupta,Amity,AIML,7.8,"React, C++, Azure, CSS",3,0,Data Analyst,0,59,64,69,Not Placed
+Rahul Joshi,ABES,CE,7.9,"FastAPI, Power BI, SQL, PyTorch, CSS",5,1,Full Stack Developer,2,70,80,73,Not Placed
+Harsh Agarwal,Amity,AI & DS,6.86,"HTML, Flask, AWS, Power BI, Pandas",3,1,Data Analyst,1,65,70,59,Not Placed
+Myra Verma,"JSS Academy of Technical Education, Noida",EEE,8.63,"Pandas, React, TensorFlow, NumPy, AWS, Linux",2,0,Business Analyst,3,91,57,78,Placed
+Ayaan Goel,GLA University,IT,8.81,"C++, TensorFlow, NumPy, JavaScript, Docker",3,2,Software Engineer,1,73,76,87,Placed
+Ritika Jain,ABES,ECE,7.19,"Linux, Git, Java, Azure, SQL, Node.js",3,1,Backend Developer,1,60,64,58,Not Placed
+Riya Sharma,Manipal Jaipur,ECE,6.1,"Power BI, AWS, Git, HTML",3,0,Java Developer,3,68,63,52,Not Placed
+Ananya Nigam,ABES,CE,8.35,"Linux, Pandas, JavaScript, Git, FastAPI",3,0,QA Engineer,2,73,61,78,Placed
+Khushi Goel,Amity,ME,7.6,"Python, PyTorch, CSS, React, TensorFlow, Git, AWS",4,1,Product Engineer,1,79,72,72,Not Placed
+Harsh Srivastava,SRM,CSE,8.3,"Power BI, PyTorch, SQL, Docker, React, HTML, NumPy",2,1,Cyber Security Analyst,2,93,62,82,Placed
+Muskan Mehta,Jaypee,CE,8.24,"Linux, FastAPI, HTML, NumPy, SQL, Python",3,0,Python Developer,1,91,59,80,Placed
+Ira Goel,Manipal Jaipur,IT,7.09,"Power BI, FastAPI, MongoDB, PyTorch, Linux, Azure, Pandas",2,2,Android Developer,1,84,69,74,Not Placed
+Varun Chawla,Bennett University,AIML,7.37,"HTML, NumPy, AWS, Pandas, Linux, React",3,1,Frontend Developer,0,89,68,72,Not Placed
+Myra Kapoor,"JSS Academy of Technical Education, Noida",CSE,7.21,"AWS, Excel, MongoDB, Git, Linux, Azure",4,2,Python Developer,0,71,79,67,Not Placed
+Riya Chopra,Thapar,IT,7.78,"SQL, NumPy, PyTorch, Docker, Pandas",1,0,Database Engineer,2,80,57,59,Not Placed
+Laksh Saxena,ABES,IT,9.41,"PyTorch, TensorFlow, C++, MongoDB, Docker",0,0,Data Analyst,2,95,50,82,Placed
+Ananya Srivastava,Bennett University,AI & DS,7.35,"NumPy, CSS, Java, Linux, AWS",0,2,Backend Developer,1,84,57,68,Not Placed
+Nikhil Arora,"JSS Academy of Technical Education, Noida",ECE,9.04,"SQL, AWS, Python, Linux, JavaScript, CSS, Excel",2,1,Database Engineer,2,58,65,80,Placed
+Laksh Sinha,KIET,AIML,9.07,"Docker, SQL, Python, C++, CSS",0,0,Android Developer,1,70,49,70,Not Placed
+Sakshi Shukla,Chandigarh University,AI & DS,6.8,"Node.js, CSS, Java, FastAPI, SQL, C++",1,1,QA Engineer,2,95,61,62,Not Placed
+Meera Kumar,Manipal Jaipur,AI & DS,7.79,"React, Java, CSS, AWS, TensorFlow",2,1,Software Engineer,3,60,70,63,Not Placed
+Kabir Shukla,VIT Vellore,AI & DS,7.54,"MongoDB, Pandas, Excel, Python, React, C++, CSS",4,1,Data Analyst,1,62,72,74,Not Placed
+Nikhil Rao,GLA University,ME,8.73,"SQL, NumPy, PyTorch, Git",5,0,AI Engineer,3,65,77,83,Placed
+Dev Kulkarni,AKGEC,AI & DS,7.18,"C++, JavaScript, Node.js, Git, HTML",3,0,Database Engineer,2,59,65,68,Not Placed
+Palak Shukla,Galgotias University,ECE,8.65,"Docker, JavaScript, React, Power BI, HTML, Node.js, Azure",0,1,QA Engineer,3,83,59,78,Placed
+Simran Bhat,Chandigarh University,ME,7.11,"Flask, FastAPI, AWS, HTML",3,1,DevOps Engineer,3,90,69,76,Placed
+Aarav Rao,Amity,EEE,7.6,"JavaScript, C++, MongoDB, Flask, React, Linux",1,1,Data Scientist,1,70,55,59,Not Placed
+Myra Das,"JSS Academy of Technical Education, Noida",EEE,7.74,"NumPy, Python, Power BI, React, Pandas, PyTorch",3,2,Backend Developer,0,66,72,68,Not Placed
+Ishita Srivastava,Manipal Jaipur,AIML,9.22,"JavaScript, MongoDB, HTML, Pandas, Java, Git, Flask",4,0,Data Analyst,0,60,67,70,Not Placed
+Laksh Menon,KIET,ECE,6.75,"AWS, Azure, FastAPI, Java",1,0,AI Engineer,3,94,57,57,Not Placed
+Tanvi Agarwal,Chandigarh University,AI & DS,8.58,"Docker, C++, PyTorch, NumPy, Power BI, TensorFlow",3,1,Android Developer,0,63,68,78,Placed
+Aman Kumar,Galgotias University,CSE,6.7,"CSS, Git, FastAPI, React, Flask, Node.js",2,1,AI Engineer,3,66,70,68,Not Placed
+Arjun Tiwari,SRM,AI & DS,7.38,"Python, Docker, FastAPI, Power BI, HTML",3,1,QA Engineer,3,66,75,74,Not Placed
+Pooja Joshi,AKGEC,AIML,8.74,"Pandas, JavaScript, SQL, MongoDB, Python, PyTorch, Excel",4,0,ML Engineer,1,65,71,75,Placed
+Aditya Gupta,SRM,CE,8.44,"MongoDB, CSS, Git, C++, Java, Python",2,1,Java Developer,2,65,63,72,Not Placed
+Dhruv Dubey,IIIT Lucknow,EEE,9.0,"PyTorch, C++, Linux, MongoDB",3,2,Cloud Engineer,1,64,77,82,Placed
+Akash Bhat,Thapar,AIML,9.07,"MongoDB, Azure, TensorFlow, Pandas",3,1,Data Analyst,2,67,70,80,Placed
+Akash Mehta,"JSS Academy of Technical Education, Noida",IT,7.57,"Java, JavaScript, Excel, NumPy, Linux, CSS, MongoDB",3,0,Frontend Developer,1,74,61,60,Not Placed
+Sneha Menon,Galgotias University,AI & DS,8.35,"Python, Java, Azure, Docker, NumPy, HTML",3,1,DevOps Engineer,1,60,71,73,Not Placed
+Rohan Gupta,Bennett University,CSE,7.07,"AWS, Flask, PyTorch, FastAPI, JavaScript, Excel, C++",2,0,Database Engineer,3,69,59,62,Not Placed
+Abhishek Chopra,IIIT Lucknow,CSE,5.83,"Azure, Flask, MongoDB, AWS, FastAPI, NumPy",3,2,QA Engineer,0,83,69,69,Not Placed
+Neha Jain,Chandigarh University,CE,7.68,"HTML, Flask, AWS, PyTorch",3,1,Database Engineer,1,70,67,74,Not Placed
+Om Ghosh,Amity,IT,7.52,"Node.js, Linux, SQL, JavaScript, Docker",3,0,Cloud Engineer,2,72,62,64,Not Placed
+Nandini Dubey,IIIT Lucknow,CE,8.03,"Docker, Git, FastAPI, SQL, Linux",4,0,Android Developer,1,90,64,77,Placed
+Rahul Shukla,GLA University,CSE,8.29,"React, Java, PyTorch, Flask, Python, JavaScript, Power BI",1,1,DevOps Engineer,4,94,67,85,Not Placed
+Ananya Jain,ABES,EEE,6.4,"PyTorch, TensorFlow, Flask, Python, Node.js",3,0,Backend Developer,0,94,57,67,Not Placed
+Sanya Reddy,Amity,EEE,6.93,"Java, Flask, React, Node.js",2,0,QA Engineer,3,80,58,63,Not Placed
+Meera Kumar,AKGEC,ECE,8.76,"HTML, AWS, Node.js, Git, Linux, Power BI, Python",2,1,Software Engineer,0,62,61,67,Not Placed
+Sarthak Saxena,ABES,ME,6.98,"CSS, Power BI, Pandas, React, Docker, C++, PyTorch",2,2,Cyber Security Analyst,2,62,69,69,Not Placed
+Riya Nair,Manipal Jaipur,CE,7.74,"PyTorch, TensorFlow, Python, Flask, AWS, Excel, Azure",3,0,AI Engineer,1,81,65,68,Not Placed
+Vivaan Bhat,Bennett University,IT,5.8,"PyTorch, AWS, Flask, Docker, Linux, HTML",3,1,Full Stack Developer,2,67,70,58,Not Placed
+Neil Goel,IIIT Lucknow,AI & DS,8.19,"Flask, C++, MongoDB, TensorFlow, PyTorch",2,1,Android Developer,3,94,64,79,Placed
+Ayaan Bhat,GLA University,AI & DS,7.3,"PyTorch, HTML, JavaScript, Python, Flask",4,0,Java Developer,2,79,70,76,Placed
+Aryan Kumar,Bennett University,ECE,6.81,"C++, JavaScript, AWS, FastAPI, Linux, CSS",4,1,DevOps Engineer,1,67,73,71,Not Placed
+Om Mehta,Jaypee,AIML,8.65,"Node.js, Git, Python, CSS, FastAPI, React",2,1,Software Engineer,0,62,64,70,Not Placed
+Nisha Gupta,Chandigarh University,CSE,7.47,"Azure, Java, C++, AWS, TensorFlow",3,0,Data Scientist,0,64,59,59,Not Placed
+Aarav Kulkarni,GLA University,CSE,7.75,"Pandas, Azure, TensorFlow, CSS, Java, NumPy, AWS",4,1,Frontend Developer,2,59,74,72,Not Placed
+Shivam Pillai,Jaypee,EEE,7.43,"Java, NumPy, Azure, TensorFlow, CSS, C++",4,0,Software Engineer,1,87,63,66,Not Placed
+Sneha Nair,ABES,AIML,8.75,"React, Azure, Node.js, Excel, Java, MongoDB",4,2,Database Engineer,3,85,84,94,Placed
+Nandini Shukla,SRM,IT,7.19,"HTML, Linux, React, Pandas, C++, Python",2,0,Data Scientist,1,74,53,63,Not Placed
+Ananya Gupta,ABES,AIML,7.38,"PyTorch, FastAPI, React, Power BI",2,1,Product Engineer,1,81,61,64,Not Placed
+Nisha Mehta,KIET,ME,8.55,"Java, React, AWS, Pandas, NumPy, Azure",2,1,AI Engineer,4,59,66,79,Placed
+Vivaan Chauhan,Jaypee,CE,9.15,"AWS, CSS, Excel, Node.js, HTML",3,1,DevOps Engineer,3,78,74,90,Placed
+Yash Patel,IIIT Lucknow,AI & DS,7.45,"Java, Power BI, CSS, NumPy, HTML, MongoDB",4,1,Software Engineer,1,86,72,79,Not Placed
+Reyansh Agarwal,SRM,ME,8.92,"NumPy, TensorFlow, Linux, Flask",4,1,Business Analyst,2,90,76,83,Placed
+Zoya Kapoor,Amity,AI & DS,8.11,"FastAPI, SQL, Python, Java, TensorFlow, C++, Flask",2,1,Backend Developer,4,58,65,68,Not Placed
+Sakshi Jain,Amity,EEE,7.84,"C++, PyTorch, JavaScript, React, FastAPI, Node.js, CSS",2,1,Software Engineer,3,92,71,72,Not Placed
+Diya Sinha,"JSS Academy of Technical Education, Noida",EEE,8.12,"Linux, Power BI, Git, MongoDB",2,0,Database Engineer,1,93,58,70,Not Placed
+Sarthak Ghosh,AKGEC,ME,9.52,"NumPy, HTML, Linux, Python, React, Docker, Node.js",2,0,Business Analyst,0,78,59,77,Placed
+Sanya Kulkarni,Amity,EEE,7.72,"Git, Flask, TensorFlow, Power BI, AWS, Python, Excel",2,0,Product Engineer,1,61,59,66,Not Placed
+Ansh Kapoor,KIET,ME,5.8,"Azure, Flask, TensorFlow, C++, Git, React",0,1,Cloud Engineer,3,82,58,59,Not Placed
+Diya Tripathi,Amity,EEE,8.36,"Docker, CSS, PyTorch, React, Flask",1,0,Data Analyst,1,67,49,70,Not Placed
+Sneha Shukla,ABES,ME,8.75,"NumPy, HTML, FastAPI, Node.js",5,1,Business Analyst,0,60,77,80,Placed
+Rahul Reddy,Bennett University,CE,7.0,"Power BI, Linux, Excel, CSS",4,0,Android Developer,1,63,67,63,Not Placed
+Sneha Sharma,IIIT Lucknow,ME,7.58,"Python, Git, JavaScript, FastAPI, AWS, Node.js",1,0,Full Stack Developer,1,81,56,61,Not Placed
+Om Pandey,Amity,CE,7.55,"JavaScript, HTML, NumPy, MongoDB",4,1,QA Engineer,1,74,76,68,Not Placed
+Neil Singh,Bennett University,EEE,7.74,"Pandas, AWS, HTML, Azure, JavaScript",1,2,QA Engineer,2,84,68,78,Placed
+Rohan Nair,Thapar,CSE,7.75,"AWS, Power BI, FastAPI, NumPy",3,1,Python Developer,0,91,68,76,Placed
+Neha Pandey,Galgotias University,ME,8.56,"Flask, MongoDB, Git, TensorFlow",1,0,Business Analyst,2,58,53,70,Not Placed
+Ira Shukla,Galgotias University,CE,8.32,"Flask, JavaScript, FastAPI, TensorFlow",3,2,Product Engineer,3,64,81,75,Placed
+Sara Gupta,AKGEC,EEE,6.64,"JavaScript, Docker, Python, CSS, Git, Node.js",2,1,Android Developer,1,84,59,67,Not Placed
+Diya Patel,Bennett University,AI & DS,7.66,"NumPy, Git, Node.js, MongoDB, JavaScript, HTML, Java",3,1,ML Engineer,0,90,68,78,Not Placed
+Simran Reddy,Amity,CSE,8.97,"Python, Git, C++, NumPy, AWS, TensorFlow",2,0,Full Stack Developer,1,79,56,76,Placed
+Harsh Menon,Jaypee,CE,8.09,"JavaScript, Java, CSS, NumPy, Linux",1,0,Backend Developer,0,95,53,68,Not Placed
+Arjun Jain,Galgotias University,ECE,8.1,"Git, CSS, HTML, FastAPI, JavaScript",2,0,Android Developer,1,93,55,73,Not Placed
+Avni Patel,ABES,CSE,8.69,"Java, CSS, Power BI, MongoDB, React",2,0,Cyber Security Analyst,1,86,59,70,Not Placed
+Nandini Goel,Thapar,AI & DS,7.77,"Java, TensorFlow, Pandas, HTML, MongoDB, React, C++",1,0,ML Engineer,3,71,54,70,Not Placed
+Khushi Saxena,Jaypee,AI & DS,7.78,"MongoDB, Excel, PyTorch, Python",1,0,Product Engineer,1,80,49,67,Not Placed
+Zoya Patel,SRM,ECE,8.1,"AWS, MongoDB, Java, Azure, SQL",3,0,Software Engineer,3,63,65,66,Not Placed
+Nikhil Kulkarni,GLA University,AIML,9.0,"MongoDB, C++, Git, Power BI",2,1,Backend Developer,2,86,68,79,Placed
+Aman Goel,KIET,ME,8.26,"NumPy, AWS, PyTorch, C++, Flask",3,0,Data Analyst,2,60,68,72,Not Placed
+Ankit Tiwari,Bennett University,IT,7.72,"React, SQL, HTML, Excel",2,2,Cloud Engineer,2,88,71,74,Not Placed
+Simran Bansal,Bennett University,ME,8.56,"HTML, React, Git, Docker, SQL",3,1,Software Engineer,3,90,72,83,Placed
+Rahul Gupta,AKGEC,AIML,6.49,"Python, NumPy, Pandas, Azure, Docker, SQL",2,0,DevOps Engineer,1,72,54,61,Not Placed
+Laksh Agarwal,GLA University,IT,8.81,"JavaScript, Azure, FastAPI, CSS",3,1,DevOps Engineer,3,90,68,83,Not Placed
+Sarthak Patel,KIET,AI & DS,8.23,"Docker, Flask, CSS, HTML, PyTorch",1,1,Data Scientist,1,84,60,66,Not Placed
+Nisha Kulkarni,SRM,EEE,8.98,"Azure, Linux, C++, JavaScript",1,0,Full Stack Developer,1,58,55,60,Not Placed
+Ayaan Reddy,IIIT Lucknow,CE,7.98,"Node.js, FastAPI, MongoDB, Java, Power BI",2,0,Data Analyst,0,68,58,67,Not Placed
+Kavya Rao,KIET,IT,8.54,"React, FastAPI, JavaScript, AWS, Power BI, Git",0,1,AI Engineer,1,95,57,78,Placed
+Zoya Dubey,VIT Vellore,IT,6.24,"Linux, Flask, TensorFlow, Azure, NumPy",1,1,DevOps Engineer,1,83,59,57,Not Placed
+Aarav Joshi,AKGEC,EEE,7.76,"C++, PyTorch, Pandas, Power BI, Azure",2,2,Full Stack Developer,3,84,75,81,Placed
+Yash Kapoor,Galgotias University,CSE,8.44,"CSS, Pandas, Node.js, TensorFlow, HTML, PyTorch, FastAPI",3,0,AI Engineer,0,92,59,71,Not Placed
+Nikhil Pillai,VIT Vellore,CSE,9.4,"CSS, SQL, React, Power BI",0,0,Cloud Engineer,3,90,50,73,Not Placed
+Aman Mehta,Jaypee,ECE,6.87,"C++, Docker, Azure, TensorFlow, Power BI, Node.js, MongoDB",0,0,QA Engineer,0,82,48,59,Not Placed
+Ayush Rao,"JSS Academy of Technical Education, Noida",IT,9.25,"Power BI, MongoDB, Docker, HTML, FastAPI, Java, TensorFlow",1,2,Product Engineer,2,89,67,91,Placed
+Priyanshi Sharma,AKGEC,ECE,9.51,"MongoDB, Git, Python, NumPy, Linux",2,1,Frontend Developer,3,94,71,83,Placed
+Reyansh Rao,SRM,CSE,5.8,"HTML, JavaScript, Docker, Java, CSS, MongoDB",2,0,Android Developer,4,78,61,60,Not Placed
+Aditi Joshi,SRM,AI & DS,8.79,"Power BI, Pandas, SQL, Node.js, PyTorch, Flask",1,2,Cyber Security Analyst,1,81,62,77,Placed
+Dev Tripathi,"JSS Academy of Technical Education, Noida",AIML,7.84,"Git, Excel, FastAPI, NumPy, C++, Node.js",3,1,Business Analyst,1,84,66,81,Placed
+Ankit Das,ABES,ECE,7.25,"Azure, PyTorch, Node.js, React, C++, Git",2,0,Backend Developer,1,58,53,59,Not Placed
+Dhruv Chawla,AKGEC,IT,7.54,"Pandas, TensorFlow, FastAPI, Linux, Excel, Flask, PyTorch",1,1,Data Analyst,1,77,56,69,Not Placed
+Nandini Saxena,Thapar,IT,6.95,"C++, Docker, Python, AWS, React, NumPy, Pandas",2,0,ML Engineer,0,66,54,55,Not Placed
+Tanvi Jain,Jaypee,ME,8.59,"HTML, Linux, Pandas, Azure, Node.js, C++",4,1,Android Developer,0,76,67,85,Placed
+Harsh Chawla,Chandigarh University,IT,8.03,"TensorFlow, JavaScript, Python, Power BI",3,1,Data Scientist,3,63,73,68,Not Placed
+Palak Sinha,ABES,CE,5.8,"Excel, React, MongoDB, Linux",2,0,Cyber Security Analyst,1,60,53,50,Not Placed
+Sarthak Chopra,IIIT Lucknow,AIML,7.39,"Docker, Node.js, NumPy, PyTorch",2,1,Frontend Developer,1,94,67,76,Not Placed
+Shivam Sinha,Thapar,CSE,7.73,"Git, TensorFlow, Node.js, C++, Excel, HTML",1,0,Python Developer,2,95,56,65,Not Placed
+Khushi Pillai,Chandigarh University,CSE,7.2,"JavaScript, FastAPI, Node.js, Flask, Git, MongoDB, Python",3,1,Software Engineer,3,76,71,66,Not Placed
+Rohan Mehta,AKGEC,EEE,7.94,"MongoDB, SQL, Java, CSS, PyTorch, NumPy",2,1,Software Engineer,0,92,61,75,Placed
+Reyansh Shukla,Jaypee,EEE,8.0,"Excel, HTML, SQL, Docker, AWS, Node.js",1,1,Android Developer,1,88,61,66,Not Placed
+Dev Nair,IIIT Lucknow,ME,7.19,"NumPy, HTML, Python, SQL, JavaScript",4,1,Database Engineer,1,75,77,71,Not Placed
+Dev Verma,KIET,EEE,9.4,"Azure, Git, Power BI, Excel, JavaScript, Python",2,1,AI Engineer,0,60,60,78,Placed
+Rahul Mishra,Chandigarh University,CSE,7.55,"CSS, Pandas, Linux, React, Excel, AWS, HTML",2,1,Backend Developer,3,95,70,82,Not Placed
+Neil Dubey,Manipal Jaipur,AI & DS,7.67,"React, SQL, JavaScript, Python",2,1,Full Stack Developer,5,72,67,74,Not Placed
+Khushi Gupta,Manipal Jaipur,ME,6.35,"Java, HTML, Power BI, Python, Excel, SQL",4,2,Backend Developer,1,60,83,69,Not Placed
+Ishita Saxena,ABES,CSE,8.07,"Docker, Git, Azure, C++",2,0,Full Stack Developer,1,82,53,64,Not Placed
+Muskan Bansal,ABES,CE,7.24,"SQL, FastAPI, Linux, JavaScript, Flask",1,0,Python Developer,0,71,48,52,Not Placed
+Ananya Pillai,GLA University,ECE,8.89,"MongoDB, FastAPI, HTML, Excel, AWS, TensorFlow",2,0,ML Engineer,2,73,56,69,Not Placed
+Aarav Patel,Jaypee,AI & DS,8.25,"Python, Java, FastAPI, Flask",3,0,Data Scientist,0,91,62,75,Placed
+Yash Kumar,KIET,AIML,7.89,"CSS, Linux, Flask, Excel, TensorFlow, Node.js, React",3,1,Software Engineer,0,59,67,67,Not Placed
+Tanish Bansal,Galgotias University,EEE,8.47,"Git, CSS, SQL, Java",2,2,Cyber Security Analyst,0,79,63,84,Placed
+Kavya Kapoor,Galgotias University,ME,7.23,"Linux, JavaScript, MongoDB, Python",3,1,Cloud Engineer,1,91,64,76,Placed
+Kavya Agarwal,GLA University,ECE,8.4,"C++, FastAPI, JavaScript, Linux",2,0,Cloud Engineer,2,76,61,68,Not Placed
+Krishna Sethi,"JSS Academy of Technical Education, Noida",IT,8.09,"C++, HTML, Git, SQL, Excel, Docker",3,1,Cloud Engineer,2,62,67,78,Not Placed
+Neil Kumar,ABES,CE,8.06,"TensorFlow, JavaScript, Python, Pandas, React, SQL",3,0,ML Engineer,3,69,69,77,Placed
+Reyansh Mehta,Thapar,ECE,7.59,"CSS, Java, HTML, Excel, SQL, Flask",1,1,Business Analyst,2,63,58,69,Not Placed
+Ritika Gupta,Chandigarh University,AIML,8.03,"PyTorch, Node.js, CSS, Docker, Flask",2,1,Backend Developer,1,80,64,74,Not Placed
+Sara Bhat,Galgotias University,AI & DS,8.31,"PyTorch, React, Linux, Excel, Node.js, Python, Java",2,1,Backend Developer,0,59,60,71,Not Placed
+Sanya Srivastava,SRM,AIML,8.74,"NumPy, Power BI, Java, SQL, JavaScript",3,1,Frontend Developer,2,89,67,84,Not Placed
+Harsh Reddy,Chandigarh University,AI & DS,7.34,"SQL, Java, NumPy, Docker, Flask, React, Azure",3,0,Data Analyst,2,90,63,71,Not Placed
+Ansh Malhotra,IIIT Lucknow,CE,7.98,"SQL, JavaScript, Node.js, PyTorch, C++, FastAPI",3,0,Product Engineer,4,87,66,72,Not Placed
+Neha Chauhan,Chandigarh University,CSE,7.95,"Excel, Flask, Azure, HTML, Linux",2,0,QA Engineer,0,59,58,65,Not Placed
+Sneha Rao,Galgotias University,CSE,8.54,"C++, Power BI, JavaScript, Java, MongoDB, Flask, HTML",0,0,ML Engineer,0,81,48,70,Not Placed
+Ayush Malhotra,Galgotias University,IT,6.26,"PyTorch, Docker, Excel, JavaScript, Azure, AWS, Linux",1,0,ML Engineer,3,58,57,51,Not Placed
+Ayush Shukla,"JSS Academy of Technical Education, Noida",EEE,7.61,"React, Python, HTML, Azure, Node.js",6,1,Java Developer,1,69,84,79,Placed
+Neha Goel,Jaypee,AIML,7.14,"AWS, TensorFlow, Java, CSS, React",2,0,Python Developer,3,75,63,60,Not Placed
+Aditi Patel,Bennett University,ME,7.15,"Java, NumPy, SQL, Python",2,0,DevOps Engineer,3,72,59,68,Not Placed
+Rohan Srivastava,Chandigarh University,IT,7.91,"React, Excel, Docker, AWS, PyTorch, Linux, JavaScript",2,1,Python Developer,2,82,65,79,Placed
+Rohan Sethi,Amity,ECE,8.73,"FastAPI, Java, Azure, Flask",1,1,Product Engineer,3,74,61,76,Placed
+Nisha Malhotra,IIIT Lucknow,AI & DS,7.93,"C++, JavaScript, Git, NumPy, Pandas, HTML, React",2,0,QA Engineer,2,69,62,65,Not Placed
+Aman Reddy,"JSS Academy of Technical Education, Noida",AIML,7.22,"Azure, NumPy, Linux, C++, Excel, Power BI, TensorFlow",3,0,Database Engineer,5,71,70,64,Not Placed
+Nikhil Mehta,GLA University,IT,7.66,"Git, Linux, JavaScript, React, AWS, Flask",1,1,QA Engineer,3,59,60,64,Not Placed
+Ira Joshi,Jaypee,CSE,7.62,"Git, Node.js, Python, C++, Linux, CSS, Azure",2,1,AI Engineer,2,95,61,72,Not Placed
+Aarav Pandey,KIET,IT,7.98,"HTML, Excel, TensorFlow, C++, Docker",3,0,QA Engineer,0,59,56,59,Not Placed
+Abhishek Srivastava,Bennett University,IT,7.11,"Azure, Java, FastAPI, Node.js",3,0,Data Scientist,2,63,64,58,Not Placed
+Avni Kapoor,Chandigarh University,ME,7.39,"MongoDB, Python, React, FastAPI, C++, Excel, SQL",3,1,Frontend Developer,4,93,70,84,Placed
+Om Saxena,VIT Vellore,AIML,8.35,"JavaScript, AWS, SQL, Linux",4,1,Java Developer,0,72,68,81,Placed
+Sanya Chauhan,Amity,ECE,6.93,"Linux, FastAPI, Power BI, Azure, JavaScript",2,0,Data Analyst,2,72,55,57,Not Placed
+Nisha Joshi,Chandigarh University,ECE,9.61,"TensorFlow, Docker, MongoDB, Java, FastAPI, C++, Linux",2,1,Full Stack Developer,2,87,66,92,Placed
+Abhishek Nigam,KIET,EEE,7.94,"Docker, MongoDB, C++, SQL, Linux, Pandas, NumPy",3,0,Product Engineer,1,59,61,64,Not Placed
+Rohan Chauhan,SRM,EEE,8.22,"SQL, Power BI, C++, Linux",1,0,Cloud Engineer,2,84,55,71,Not Placed
+Priyanshi Singh,KIET,EEE,9.11,"Docker, C++, HTML, Pandas, SQL, Java, Git",0,0,DevOps Engineer,1,60,48,69,Not Placed
+Neil Jain,AKGEC,ME,6.68,"FastAPI, TensorFlow, PyTorch, SQL, React, Power BI, Azure",2,0,Frontend Developer,4,84,61,61,Not Placed
+Ishita Chawla,KIET,EEE,8.4,"Python, Node.js, Docker, Excel, FastAPI",0,0,Data Scientist,2,66,48,64,Not Placed
+Ayaan Pillai,ABES,CSE,7.69,"AWS, PyTorch, Python, Node.js, Azure",3,0,Full Stack Developer,0,70,62,59,Not Placed
+Kabir Singh,GLA University,EEE,8.58,"Pandas, MongoDB, SQL, React, Python, NumPy, Azure",2,1,Full Stack Developer,0,75,62,71,Not Placed
+Zoya Tiwari,AKGEC,AI & DS,7.94,"Flask, Java, PyTorch, CSS, TensorFlow, HTML",0,0,Database Engineer,3,82,53,63,Not Placed
+Akash Gupta,ABES,AI & DS,8.32,"PyTorch, React, C++, SQL, Azure, TensorFlow",0,2,Software Engineer,1,88,62,80,Placed
+Kabir Verma,IIIT Lucknow,CE,7.94,"MongoDB, Linux, Flask, AWS, Excel, TensorFlow, PyTorch",3,2,DevOps Engineer,2,70,79,82,Placed
+Rahul Chawla,Galgotias University,AI & DS,6.62,"PyTorch, Git, Flask, FastAPI, SQL",1,0,Full Stack Developer,1,84,48,60,Not Placed
+Khushi Sethi,IIIT Lucknow,EEE,7.74,"React, Azure, Java, PyTorch",2,2,Python Developer,5,69,81,75,Placed
+Aditi Rao,AKGEC,CE,7.69,"Flask, HTML, Azure, Pandas",2,0,Database Engineer,2,79,63,72,Not Placed
+Kabir Tiwari,Galgotias University,CSE,8.61,"Docker, Power BI, HTML, Git, JavaScript",5,0,Data Scientist,1,94,73,79,Placed
+Sneha Kumar,Galgotias University,CE,8.18,"C++, Python, TensorFlow, FastAPI",1,0,Data Analyst,1,75,51,65,Not Placed
+Aman Bhat,Chandigarh University,IT,7.34,"FastAPI, Azure, JavaScript, Node.js, NumPy, Docker, Java",2,1,Product Engineer,1,69,62,68,Not Placed
+Aarav Kumar,Thapar,AI & DS,9.0,"NumPy, React, JavaScript, Flask, CSS, FastAPI",1,1,QA Engineer,1,84,56,76,Placed
+Krishna Bhatt,Amity,ECE,7.74,"NumPy, Excel, Power BI, AWS, Node.js",3,1,Product Engineer,2,70,71,67,Not Placed
+Riya Kulkarni,VIT Vellore,IT,6.96,"NumPy, TensorFlow, PyTorch, Pandas, HTML, Power BI",3,0,Database Engineer,1,80,64,59,Not Placed
+Aarav Singh,Amity,CSE,8.66,"Linux, PyTorch, Flask, Pandas, TensorFlow",1,0,AI Engineer,3,83,58,76,Placed
+Sarthak Tiwari,SRM,CE,7.13,"Node.js, PyTorch, Docker, Python, Flask, Git, TensorFlow",2,1,Product Engineer,2,59,66,68,Not Placed
+Ananya Kapoor,VIT Vellore,IT,7.87,"Linux, Git, Python, Node.js, TensorFlow, MongoDB",4,0,Product Engineer,0,59,66,72,Not Placed
+Aditi Rao,VIT Vellore,ECE,8.0,"SQL, HTML, Git, C++",3,1,Data Scientist,1,72,67,67,Not Placed
+Kavya Kulkarni,"JSS Academy of Technical Education, Noida",IT,8.81,"CSS, SQL, Java, Python",3,0,Cyber Security Analyst,0,69,58,70,Not Placed
+Nandini Tiwari,ABES,ME,8.26,"Pandas, NumPy, Node.js, Power BI, React, Excel",3,1,Software Engineer,3,70,73,72,Not Placed
+Kabir Saxena,IIIT Lucknow,CSE,8.2,"Power BI, Python, Azure, TensorFlow, Pandas, Docker, HTML",1,0,Full Stack Developer,0,60,53,62,Not Placed
+Aditi Sharma,Thapar,AI & DS,6.09,"Flask, NumPy, TensorFlow, Excel, AWS, CSS, Linux",2,0,Business Analyst,0,81,57,58,Not Placed
+Nisha Pillai,AKGEC,CE,8.96,"C++, Excel, Java, HTML, NumPy, FastAPI",0,0,Python Developer,0,93,48,76,Placed
+Neil Srivastava,Bennett University,IT,7.18,"Power BI, Node.js, C++, FastAPI, PyTorch, SQL, Java",2,1,Product Engineer,1,66,60,63,Not Placed
+Vihaan Joshi,Manipal Jaipur,ECE,8.16,"Linux, TensorFlow, Pandas, Excel, SQL, Java, HTML",4,0,DevOps Engineer,3,90,75,83,Placed
+Arjun Chawla,ABES,CSE,8.9,"Excel, Python, C++, Linux, Java, JavaScript, Power BI",2,0,Product Engineer,1,82,56,73,Not Placed
+Sarthak Chawla,GLA University,AIML,8.07,"React, Excel, Node.js, Java, CSS",3,1,DevOps Engineer,1,69,72,71,Not Placed
+Ira Yadav,IIIT Lucknow,EEE,7.23,"Pandas, React, Linux, Power BI",1,1,Product Engineer,0,64,58,59,Not Placed
+Myra Chopra,Jaypee,AIML,9.66,"Excel, FastAPI, Node.js, AWS, PyTorch, SQL, Flask",2,1,Cyber Security Analyst,3,93,68,90,Placed
+Aditi Kapoor,GLA University,ME,8.48,"TensorFlow, Python, JavaScript, Power BI, SQL",2,3,DevOps Engineer,1,66,78,83,Placed
+Khushi Reddy,Thapar,AIML,6.1,"JavaScript, Azure, FastAPI, MongoDB, Flask, React",1,0,Frontend Developer,0,70,54,52,Not Placed
+Tanish Sharma,Bennett University,IT,7.98,"Flask, AWS, FastAPI, Python, Node.js",3,0,Full Stack Developer,1,73,59,73,Not Placed
+Kavya Patel,ABES,AIML,8.58,"AWS, JavaScript, CSS, React",2,0,Backend Developer,1,84,58,78,Placed
+Nisha Agarwal,Manipal Jaipur,ME,7.72,"Node.js, Docker, HTML, NumPy",5,0,QA Engineer,1,82,74,81,Not Placed
+Sara Verma,Amity,AIML,9.8,"PyTorch, Node.js, Git, HTML, CSS, AWS",1,2,Data Scientist,1,82,62,85,Placed
+Ansh Arora,VIT Vellore,AIML,6.98,"Python, React, PyTorch, C++, Excel",2,0,Business Analyst,2,58,55,54,Not Placed
+Aditya Menon,Galgotias University,IT,9.8,"C++, TensorFlow, FastAPI, Flask, Linux, NumPy",2,3,DevOps Engineer,3,73,75,95,Placed
+Rohan Nigam,Chandigarh University,ME,8.06,"AWS, Java, Excel, SQL, Linux",1,0,Data Analyst,1,85,53,62,Not Placed
+Myra Gupta,AKGEC,AI & DS,7.85,"NumPy, Node.js, Flask, Power BI, C++",3,1,AI Engineer,2,70,74,73,Not Placed
+Kabir Shukla,Thapar,EEE,8.04,"Java, Pandas, NumPy, FastAPI, C++",3,1,Data Scientist,2,76,71,75,Placed
+Karan Yadav,Galgotias University,IT,8.39,"AWS, Power BI, MongoDB, C++, FastAPI, Excel, HTML",3,0,Data Scientist,3,82,70,81,Placed
+Muskan Verma,GLA University,AI & DS,7.56,"React, AWS, Node.js, PyTorch",1,1,Data Analyst,1,62,55,67,Not Placed
+Pooja Reddy,KIET,ME,6.65,"Linux, HTML, Flask, Node.js, FastAPI",4,1,Backend Developer,3,69,73,65,Not Placed
+Ananya Rao,Jaypee,CE,8.37,"MongoDB, Docker, JavaScript, Excel, TensorFlow",3,1,Data Scientist,4,63,74,81,Placed
+Ankit Mehta,"JSS Academy of Technical Education, Noida",ME,6.84,"Flask, Azure, CSS, Java, Git, MongoDB, Node.js",2,1,Backend Developer,3,90,65,71,Not Placed
+Ira Kumar,Bennett University,ME,8.09,"Node.js, Excel, TensorFlow, Flask",1,1,ML Engineer,4,90,68,77,Placed
+Rudra Kumar,IIIT Lucknow,ME,8.71,"Linux, PyTorch, Python, Node.js, Git, Java",1,0,Cyber Security Analyst,2,81,53,69,Not Placed
+Ankit Ghosh,KIET,AIML,9.8,"SQL, PyTorch, JavaScript, Node.js, Excel, Java, HTML",3,0,Cyber Security Analyst,1,77,61,82,Placed
+Ayaan Ghosh,Bennett University,CSE,8.48,"TensorFlow, Java, CSS, NumPy, JavaScript",1,0,Data Scientist,2,69,52,66,Not Placed
+Ira Reddy,VIT Vellore,AIML,7.51,"Python, PyTorch, SQL, TensorFlow, Azure, HTML, Java",2,0,ML Engineer,3,74,57,66,Not Placed
+Nisha Verma,Manipal Jaipur,EEE,6.98,"Java, AWS, TensorFlow, Docker",2,1,Frontend Developer,2,73,64,66,Not Placed
+Ansh Shukla,KIET,EEE,8.3,"React, Linux, NumPy, FastAPI, TensorFlow, Azure, Pandas",3,0,Full Stack Developer,3,81,62,73,Not Placed
+Riya Goel,VIT Vellore,CE,8.13,"Azure, CSS, Excel, Git, Pandas",1,1,Data Analyst,0,58,52,67,Not Placed
+Reyansh Mishra,ABES,AI & DS,9.24,"C++, CSS, PyTorch, Python",2,0,Python Developer,0,63,55,72,Not Placed
+Riya Dubey,Manipal Jaipur,ECE,8.4,"C++, Azure, PyTorch, SQL, Linux, Git",3,0,Cyber Security Analyst,1,82,63,73,Not Placed
+Priyanshi Kapoor,"JSS Academy of Technical Education, Noida",AIML,7.72,"Flask, Git, Power BI, PyTorch, Pandas",2,1,Cloud Engineer,2,81,64,72,Not Placed
+Ritika Pandey,Galgotias University,EEE,8.12,"Flask, Java, Excel, Git, Linux, JavaScript, CSS",1,1,Frontend Developer,0,61,52,64,Not Placed
+Akash Pandey,Bennett University,AIML,7.69,"Azure, SQL, HTML, Node.js, MongoDB, AWS, JavaScript",1,0,Database Engineer,1,68,56,59,Not Placed
+Krishna Arora,SRM,AIML,8.5,"Linux, SQL, C++, Azure",1,0,Full Stack Developer,0,66,51,65,Not Placed
+Om Nigam,Manipal Jaipur,AI & DS,7.81,"C++, Power BI, Git, React, CSS, JavaScript, TensorFlow",1,1,Cyber Security Analyst,1,91,54,64,Not Placed
+Ankit Yadav,Jaypee,IT,8.04,"Power BI, Azure, Node.js, Git, Python",2,0,Full Stack Developer,1,76,57,65,Not Placed
+Rudra Srivastava,VIT Vellore,CE,7.95,"React, Node.js, Docker, HTML, FastAPI",3,1,DevOps Engineer,1,67,70,76,Placed
+Aryan Singh,Manipal Jaipur,EEE,7.99,"JavaScript, CSS, PyTorch, Excel, Pandas, Flask, Docker",3,1,Data Scientist,1,90,69,79,Placed
+Kavya Pandey,IIIT Lucknow,IT,6.96,"Node.js, PyTorch, Linux, SQL, Excel, MongoDB",3,1,Business Analyst,1,73,69,69,Not Placed
+Om Sethi,Amity,AIML,8.28,"MongoDB, Flask, SQL, NumPy, Power BI",1,1,Python Developer,0,77,56,75,Placed
+Vihaan Bhatt,Thapar,ME,8.04,"Node.js, HTML, SQL, CSS, AWS, JavaScript, Azure",3,0,Product Engineer,2,67,65,67,Not Placed
+Om Bansal,Jaypee,IT,8.3,"JavaScript, MongoDB, Linux, Azure, React, CSS, PyTorch",4,0,QA Engineer,2,70,72,69,Not Placed
+Rahul Tripathi,KIET,CSE,8.69,"JavaScript, React, C++, Node.js",0,1,Cloud Engineer,2,74,59,77,Placed
+Vihaan Patel,Chandigarh University,ME,7.86,"React, Python, SQL, TensorFlow",3,2,Backend Developer,2,72,77,75,Placed
+Palak Dubey,VIT Vellore,AI & DS,8.4,"NumPy, C++, Azure, Docker, Power BI, FastAPI",0,1,Android Developer,2,82,57,75,Placed
+Vihaan Tripathi,Manipal Jaipur,AI & DS,7.67,"C++, Flask, PyTorch, NumPy",5,2,Software Engineer,0,71,78,81,Placed
+Aarav Chauhan,Chandigarh University,AI & DS,7.11,"Linux, Pandas, Flask, Python, MongoDB",1,1,Software Engineer,0,66,56,58,Not Placed
+Dev Kumar,"JSS Academy of Technical Education, Noida",ECE,7.72,"Git, CSS, SQL, C++, Azure, MongoDB",1,1,Software Engineer,2,61,57,62,Not Placed
+Krishna Das,SRM,ME,7.04,"NumPy, React, Pandas, JavaScript",1,1,Cyber Security Analyst,1,87,58,65,Not Placed
+Neha Rao,ABES,AI & DS,6.85,"Power BI, Pandas, Azure, Node.js, PyTorch",4,0,Data Scientist,2,60,72,60,Not Placed
+Sneha Sinha,Jaypee,ECE,8.37,"FastAPI, C++, SQL, Linux, Pandas, MongoDB, Docker",2,0,Software Engineer,1,60,60,70,Not Placed
+Reyansh Tripathi,Manipal Jaipur,IT,8.06,"MongoDB, NumPy, Power BI, Node.js, AWS",2,0,AI Engineer,1,63,61,61,Not Placed
+Abhishek Gupta,KIET,ME,5.88,"AWS, FastAPI, JavaScript, Node.js",1,0,Product Engineer,1,77,48,45,Not Placed
+Yash Pandey,KIET,IT,7.75,"TensorFlow, React, PyTorch, SQL, FastAPI, Docker, Git",2,0,DevOps Engineer,2,93,59,75,Placed
+Rudra Joshi,Bennett University,AI & DS,7.32,"Git, Linux, HTML, Python, C++",3,1,Cloud Engineer,1,73,70,69,Not Placed
+Sara Pandey,Thapar,IT,7.12,"Excel, Linux, Docker, Flask, NumPy",4,1,Full Stack Developer,1,69,70,67,Not Placed
+Kabir Kulkarni,VIT Vellore,ME,8.67,"Pandas, HTML, Docker, TensorFlow, Git",2,0,Java Developer,1,93,57,76,Placed
+Aditya Patel,GLA University,ECE,7.98,"CSS, Git, FastAPI, Linux, C++, HTML",4,0,Android Developer,0,81,65,79,Placed
+Rahul Chopra,Galgotias University,ME,8.62,"NumPy, React, Pandas, Power BI",4,1,Software Engineer,4,79,79,85,Not Placed
+Palak Rao,KIET,CE,7.98,"AWS, Flask, Docker, C++, React, Power BI, MongoDB",2,1,ML Engineer,1,73,59,73,Not Placed
+Arjun Reddy,IIIT Lucknow,CE,7.72,"Pandas, HTML, Git, Power BI, Node.js",2,1,QA Engineer,0,95,57,76,Placed
+Aryan Tiwari,IIIT Lucknow,ECE,8.35,"Java, Docker, PyTorch, Flask, SQL, FastAPI",4,0,Cyber Security Analyst,0,79,67,72,Not Placed
+Diya Chauhan,Manipal Jaipur,EEE,6.92,"FastAPI, Azure, CSS, SQL",0,1,AI Engineer,0,87,54,65,Not Placed
+Aman Jain,IIIT Lucknow,CSE,8.04,"Java, CSS, Power BI, C++, Python",3,0,Software Engineer,1,79,65,72,Not Placed
+Zoya Tripathi,VIT Vellore,AI & DS,7.86,"MongoDB, Linux, Excel, NumPy, Pandas, Java",1,1,Android Developer,2,66,56,69,Not Placed
+Aarav Malhotra,ABES,CSE,9.27,"Excel, FastAPI, PyTorch, SQL, AWS, Pandas, TensorFlow",3,0,Software Engineer,2,58,60,71,Not Placed
+Dev Chauhan,VIT Vellore,IT,6.2,"NumPy, Docker, Azure, Python, SQL, Excel, MongoDB",4,0,Full Stack Developer,2,64,72,54,Not Placed
+Parth Ghosh,SRM,ME,7.57,"MongoDB, Linux, Azure, Java",1,2,Cyber Security Analyst,0,73,63,70,Not Placed
+Ayush Bansal,Thapar,AIML,8.04,"MongoDB, Linux, Git, Java, FastAPI, Python, HTML",5,0,Cyber Security Analyst,3,59,78,76,Placed
+Nandini Gupta,VIT Vellore,AI & DS,7.96,"Azure, AWS, HTML, SQL, React, Power BI",1,1,Android Developer,1,74,57,72,Not Placed
+Varun Srivastava,VIT Vellore,IT,8.04,"TensorFlow, C++, HTML, Pandas, Linux, MongoDB",2,0,Database Engineer,3,65,59,62,Not Placed
+Pooja Singh,Galgotias University,AIML,7.54,"React, Python, Java, Node.js, SQL, CSS",2,1,Java Developer,0,67,64,59,Not Placed
+Shivam Chopra,Thapar,AIML,9.05,"Node.js, FastAPI, Azure, Git, CSS, HTML, PyTorch",0,0,Data Scientist,4,69,54,76,Placed
+Sanya Verma,Chandigarh University,ECE,7.71,"Git, CSS, Power BI, SQL, C++, PyTorch, Pandas",2,1,Data Analyst,0,77,62,63,Not Placed
+Aditi Nair,"JSS Academy of Technical Education, Noida",ME,9.1,"SQL, Python, Pandas, TensorFlow, JavaScript, React, NumPy",3,1,QA Engineer,3,63,70,78,Placed
+Avni Shukla,Bennett University,IT,6.68,"NumPy, TensorFlow, Power BI, MongoDB, JavaScript",2,1,Product Engineer,2,76,67,61,Not Placed
+Karan Agarwal,Galgotias University,AIML,6.92,"JavaScript, Python, Excel, Pandas, TensorFlow, Azure, SQL",3,1,Database Engineer,1,74,70,61,Not Placed
+Shivam Patel,Bennett University,CE,8.94,"CSS, Node.js, Linux, Docker, Python",1,0,Python Developer,3,76,57,75,Placed
+Nandini Verma,VIT Vellore,AI & DS,7.75,"C++, Linux, React, MongoDB",4,0,Business Analyst,2,71,71,78,Not Placed
+Meera Ghosh,KIET,AI & DS,7.08,"MongoDB, Docker, SQL, AWS",4,0,Java Developer,0,85,66,67,Not Placed
+Dhruv Ghosh,VIT Vellore,EEE,7.35,"Pandas, TensorFlow, Excel, Power BI, Java, Linux",1,0,Android Developer,1,95,56,66,Not Placed
+Arjun Mehta,KIET,CSE,7.8,"CSS, Flask, JavaScript, FastAPI",3,1,Frontend Developer,3,77,75,78,Placed
+Dev Saxena,KIET,CSE,9.19,"Excel, TensorFlow, Java, Pandas",1,0,Cloud Engineer,2,93,55,82,Placed
+Ankit Kumar,Manipal Jaipur,ME,8.53,"JavaScript, MongoDB, PyTorch, Flask",2,0,Cloud Engineer,2,87,60,81,Placed
+Rahul Goel,GLA University,ECE,7.61,"React, AWS, FastAPI, MongoDB, JavaScript, PyTorch, Excel",3,1,QA Engineer,1,86,70,80,Placed
+Myra Rao,IIIT Lucknow,EEE,9.29,"JavaScript, NumPy, Linux, Git, FastAPI, Excel, Java",3,0,Product Engineer,1,95,66,89,Placed
+Ira Nair,Chandigarh University,AI & DS,7.26,"Git, Excel, Azure, CSS, JavaScript, MongoDB",4,0,Business Analyst,0,66,68,70,Not Placed
+Sarthak Verma,GLA University,AIML,8.51,"MongoDB, Node.js, Docker, NumPy",3,0,Cloud Engineer,0,69,62,75,Placed
+Akash Shukla,Thapar,CSE,8.5,"TensorFlow, React, JavaScript, NumPy, Node.js",2,0,Cyber Security Analyst,0,93,56,71,Not Placed
+Vivaan Joshi,KIET,AIML,7.71,"Node.js, C++, AWS, Power BI, Excel, MongoDB, PyTorch",4,1,Android Developer,1,81,70,80,Placed
+Riya Singh,Jaypee,AIML,6.91,"Node.js, Azure, FastAPI, SQL, React",5,1,AI Engineer,0,88,79,73,Not Placed
+Zoya Bhat,"JSS Academy of Technical Education, Noida",AI & DS,9.11,"NumPy, Docker, Excel, JavaScript, Java",3,1,Cyber Security Analyst,3,89,73,89,Placed
+Ananya Dubey,VIT Vellore,AIML,8.48,"JavaScript, AWS, TensorFlow, Excel, C++, Azure",3,1,Cyber Security Analyst,4,64,78,82,Not Placed
+Avni Das,KIET,CE,8.27,"Azure, SQL, TensorFlow, HTML, JavaScript",4,1,Database Engineer,2,89,74,81,Placed
+Rudra Malhotra,SRM,ECE,7.69,"MongoDB, Git, Python, JavaScript, Excel, CSS",3,1,Frontend Developer,2,77,72,80,Placed
+Rohan Patel,Manipal Jaipur,ECE,6.38,"Python, NumPy, AWS, Node.js, Docker, Java",2,1,Cloud Engineer,2,91,68,66,Not Placed
+Priyanshi Shukla,GLA University,CSE,9.21,"NumPy, Java, Docker, SQL, Excel, Flask, Pandas",2,1,Data Scientist,2,95,65,82,Placed
+Sakshi Dubey,Galgotias University,IT,8.53,"Linux, PyTorch, AWS, SQL, Docker, Git, FastAPI",4,0,Data Analyst,3,90,73,81,Placed
+Karan Kapoor,ABES,AI & DS,7.97,"MongoDB, Linux, JavaScript, HTML, Git, Power BI, Excel",3,1,Data Analyst,2,63,73,73,Not Placed
+Aditya Mehta,KIET,EEE,7.39,"Flask, Linux, Java, Node.js, AWS",2,0,Software Engineer,4,71,66,61,Not Placed
+Sakshi Arora,Galgotias University,EEE,7.94,"HTML, NumPy, Node.js, PyTorch, MongoDB, C++, Power BI",1,1,Software Engineer,2,84,57,71,Not Placed
+Abhishek Agarwal,ABES,CSE,7.21,"Power BI, Flask, TensorFlow, Java, React, AWS",3,0,Java Developer,1,73,58,60,Not Placed
+Reyansh Reddy,Galgotias University,IT,8.71,"Flask, AWS, Excel, Azure, HTML, SQL, Python",3,2,Python Developer,1,87,72,80,Placed
+Nandini Agarwal,ABES,AIML,7.17,"C++, TensorFlow, Azure, Python, SQL, Node.js",2,1,Python Developer,4,63,72,69,Not Placed
+Krishna Pandey,ABES,ECE,7.43,"Docker, Node.js, AWS, Flask, Power BI",1,1,Data Scientist,2,93,59,66,Not Placed
+Yash Chauhan,Chandigarh University,EEE,7.73,"Pandas, MongoDB, Excel, HTML, PyTorch",2,0,Full Stack Developer,0,86,53,63,Not Placed
+Kavya Chauhan,GLA University,CE,8.7,"HTML, CSS, Linux, TensorFlow, Flask",5,0,Database Engineer,2,75,72,78,Placed
+Diya Sharma,ABES,ECE,7.29,"TensorFlow, Azure, React, MongoDB, Node.js, PyTorch, Java",1,1,Backend Developer,5,63,65,61,Not Placed
+Laksh Singh,Amity,EEE,8.92,"Java, MongoDB, Node.js, SQL, Pandas, PyTorch, Flask",3,1,Backend Developer,1,95,70,82,Placed
+Aman Kulkarni,Bennett University,IT,9.39,"Java, C++, Azure, Pandas, PyTorch",2,0,Data Analyst,0,78,55,74,Not Placed
+Akash Bhatt,AKGEC,IT,7.56,"Python, React, PyTorch, Docker, Excel",3,0,Data Scientist,0,91,64,67,Not Placed
+Varun Ghosh,"JSS Academy of Technical Education, Noida",CSE,8.61,"HTML, MongoDB, FastAPI, SQL, Docker",1,2,Data Analyst,2,59,67,70,Not Placed
+Avni Ghosh,VIT Vellore,AIML,7.31,"MongoDB, Pandas, HTML, Git, TensorFlow",1,0,Database Engineer,2,86,52,64,Not Placed
+Sanya Das,IIIT Lucknow,IT,6.94,"Azure, SQL, HTML, TensorFlow, FastAPI, NumPy",4,0,Software Engineer,1,87,64,74,Not Placed
+Simran Mishra,AKGEC,ECE,8.91,"PyTorch, TensorFlow, Linux, HTML",3,1,Java Developer,0,74,67,72,Not Placed
+Khushi Singh,Chandigarh University,ME,7.52,"Git, FastAPI, AWS, PyTorch, Power BI, Node.js",3,0,Data Scientist,1,61,63,68,Not Placed
+Zoya Yadav,IIIT Lucknow,ECE,8.11,"NumPy, Git, C++, HTML, React",1,1,Backend Developer,2,85,56,67,Not Placed
+Pooja Sharma,Jaypee,AIML,8.14,"Docker, AWS, Pandas, Excel, Node.js",2,1,Software Engineer,2,67,67,73,Not Placed
+Vihaan Menon,Jaypee,AIML,7.61,"HTML, AWS, Azure, Docker, TensorFlow, Python, Excel",1,0,Database Engineer,0,60,51,56,Not Placed
+Sarthak Tripathi,SRM,IT,7.57,"AWS, Pandas, TensorFlow, React",0,0,Cloud Engineer,4,89,49,61,Not Placed
+Akash Kumar,Manipal Jaipur,EEE,7.38,"JavaScript, NumPy, C++, Flask, SQL, Docker, PyTorch",1,0,Data Scientist,1,86,52,64,Not Placed
+Simran Bhatt,"JSS Academy of Technical Education, Noida",ME,8.94,"MongoDB, Java, Python, Docker, NumPy, FastAPI",1,1,Database Engineer,2,73,59,74,Not Placed
+Dhruv Arora,KIET,CE,7.43,"CSS, Linux, Docker, Python, Excel, FastAPI",1,0,AI Engineer,2,76,56,56,Not Placed
+Parth Agarwal,Jaypee,EEE,7.4,"HTML, CSS, Python, AWS, C++, Power BI",4,1,Database Engineer,1,65,74,69,Not Placed
+Ansh Mishra,"JSS Academy of Technical Education, Noida",IT,8.46,"FastAPI, Git, Linux, PyTorch, C++, Flask",2,0,Business Analyst,2,79,59,74,Not Placed
+Zoya Arora,GLA University,CSE,7.84,"React, Git, FastAPI, Docker",5,1,Java Developer,2,76,80,74,Not Placed
+Rohan Bansal,AKGEC,ECE,7.66,"Excel, Flask, Node.js, NumPy, Git, JavaScript",1,1,Frontend Developer,2,87,63,76,Placed
+Ayaan Verma,VIT Vellore,ME,6.38,"NumPy, JavaScript, Python, C++, Git, HTML",2,2,Data Scientist,2,86,72,64,Not Placed
+Diya Kumar,ABES,EEE,8.46,"Python, Java, NumPy, Node.js, React, AWS",0,1,Backend Developer,1,58,49,67,Not Placed
+Palak Nair,GLA University,ME,8.94,"Excel, CSS, Pandas, FastAPI, Flask, TensorFlow",2,1,Business Analyst,2,64,68,79,Placed
+Avni Kumar,Chandigarh University,AI & DS,8.05,"HTML, C++, Azure, NumPy, Excel, AWS",3,0,Business Analyst,0,89,57,67,Not Placed
+Kavya Dubey,Manipal Jaipur,AI & DS,8.25,"Power BI, FastAPI, Pandas, Docker, Excel",4,0,Python Developer,1,93,65,78,Placed
+Simran Saxena,SRM,CE,8.11,"Pandas, C++, AWS, Java",3,1,Android Developer,1,77,65,76,Placed
+Kavya Kulkarni,GLA University,AI & DS,6.78,"JavaScript, Python, React, TensorFlow, Docker, Java",2,1,Full Stack Developer,4,84,70,66,Not Placed
+Muskan Joshi,GLA University,CSE,9.15,"HTML, AWS, Java, CSS, Power BI, TensorFlow, Node.js",2,1,Database Engineer,1,82,67,81,Placed
+Khushi Verma,VIT Vellore,IT,7.51,"C++, SQL, Node.js, Python, Pandas, FastAPI, Docker",5,2,AI Engineer,2,62,89,85,Not Placed
+Aryan Menon,Jaypee,CSE,8.42,"CSS, React, TensorFlow, Pandas",3,3,Full Stack Developer,2,84,80,90,Placed
+Nikhil Bhatt,IIIT Lucknow,AI & DS,7.42,"NumPy, JavaScript, Power BI, React, MongoDB, Java",1,1,Cyber Security Analyst,1,77,62,58,Not Placed
+Aman Rao,Amity,IT,7.17,"Java, C++, Azure, FastAPI, JavaScript, Linux, HTML",2,0,Android Developer,1,64,54,56,Not Placed
+Ritika Pillai,SRM,ECE,7.16,"Java, MongoDB, JavaScript, Git, React, Excel, Flask",2,0,Database Engineer,2,79,62,59,Not Placed
+Ankit Sharma,AKGEC,CE,7.8,"Python, Git, Node.js, PyTorch, Pandas",1,0,ML Engineer,1,72,50,56,Not Placed
+Neha Sharma,GLA University,AIML,8.38,"Docker, MongoDB, Azure, Excel",1,1,Software Engineer,1,74,59,69,Not Placed
+Akash Menon,Amity,CE,8.69,"Python, TensorFlow, CSS, Azure",3,0,Database Engineer,0,88,58,71,Not Placed
+Tanvi Kulkarni,ABES,ECE,7.13,"SQL, CSS, Power BI, PyTorch",1,0,Backend Developer,2,59,53,58,Not Placed
+Meera Arora,Manipal Jaipur,IT,8.84,"React, Node.js, Pandas, NumPy, SQL, Azure, Docker",1,1,Data Analyst,0,70,56,71,Not Placed
+Aditi Jain,AKGEC,AI & DS,8.2,"CSS, HTML, Pandas, C++, Excel",2,0,QA Engineer,1,71,60,69,Not Placed
+Pooja Malhotra,Thapar,IT,7.71,"SQL, PyTorch, React, AWS",2,1,Python Developer,3,91,63,70,Not Placed
+Riya Kapoor,IIIT Lucknow,CSE,6.99,"JavaScript, FastAPI, CSS, AWS, Pandas, Power BI",4,0,AI Engineer,1,68,71,69,Not Placed
+Kavya Tripathi,Bennett University,CE,8.13,"Power BI, Excel, PyTorch, Docker",4,0,Software Engineer,2,75,69,75,Placed
+Akash Tripathi,SRM,CE,8.68,"Excel, Docker, Node.js, Flask, TensorFlow, Pandas",4,0,Data Scientist,3,62,68,73,Not Placed
+Karan Reddy,AKGEC,AI & DS,7.75,"React, Pandas, TensorFlow, Flask, HTML, Power BI",3,0,Android Developer,3,89,62,71,Not Placed
+Aditya Sethi,Manipal Jaipur,IT,6.66,"PyTorch, NumPy, Linux, Excel, MongoDB, Pandas",1,0,Android Developer,2,67,58,57,Not Placed
+Ankit Kulkarni,SRM,IT,7.63,"Docker, Node.js, C++, SQL, Azure, PyTorch, Excel",5,1,AI Engineer,3,89,86,79,Placed
+Neha Patel,ABES,AIML,8.61,"AWS, Excel, Azure, HTML, React",1,0,Product Engineer,2,89,52,67,Not Placed
+Harsh Shukla,Bennett University,IT,8.7,"Azure, Java, Node.js, CSS, React, HTML",2,0,Android Developer,0,73,59,73,Not Placed
+Neil Sethi,Jaypee,CSE,8.31,"Power BI, C++, React, Pandas, Node.js, FastAPI",2,1,Data Scientist,2,92,66,77,Placed
+Diya Agarwal,GLA University,ME,8.51,"CSS, HTML, Node.js, Pandas, Python",3,2,Product Engineer,1,86,72,79,Placed
+Rahul Yadav,"JSS Academy of Technical Education, Noida",EEE,7.9,"Linux, C++, Pandas, Docker",1,1,QA Engineer,1,64,57,61,Not Placed
+Rahul Singh,ABES,EEE,8.08,"SQL, Pandas, TensorFlow, Java",2,0,AI Engineer,1,86,58,65,Not Placed
+Diya Chawla,Manipal Jaipur,CE,6.52,"JavaScript, FastAPI, HTML, Python",0,2,Data Scientist,1,65,62,53,Not Placed
+Krishna Sharma,IIIT Lucknow,EEE,8.21,"Git, Azure, Python, CSS, JavaScript",2,1,Python Developer,3,71,64,69,Not Placed
+Ananya Mishra,SRM,CSE,8.1,"C++, AWS, Power BI, Java, PyTorch",4,1,Python Developer,2,74,77,81,Placed
+Khushi Arora,Chandigarh University,AIML,7.1,"Docker, Node.js, TensorFlow, Git",3,0,Product Engineer,2,78,67,60,Not Placed
+Myra Shukla,VIT Vellore,CE,8.2,"PyTorch, TensorFlow, Node.js, HTML, MongoDB",2,1,QA Engineer,2,59,69,67,Not Placed
+Sanya Joshi,Thapar,ECE,8.92,"Pandas, PyTorch, React, C++, Flask",3,2,Java Developer,2,77,77,89,Placed
+Om Mishra,Jaypee,ME,8.61,"Python, Docker, PyTorch, MongoDB, Java, Power BI, AWS",3,1,Product Engineer,1,94,71,84,Placed
+Aryan Sharma,IIIT Lucknow,AIML,7.02,"Pandas, Python, PyTorch, FastAPI",5,1,Business Analyst,2,93,83,78,Placed
+Parth Mishra,GLA University,IT,7.36,"Git, CSS, JavaScript, FastAPI",1,1,Frontend Developer,2,59,58,55,Not Placed
+Tanish Kapoor,ABES,CE,7.67,"Azure, AWS, TensorFlow, CSS",2,0,Cyber Security Analyst,1,65,54,64,Not Placed
+Neil Saxena,IIIT Lucknow,ME,8.92,"Excel, C++, TensorFlow, CSS, Git, HTML",1,2,Product Engineer,0,71,60,82,Not Placed
+Ayush Menon,Bennett University,CE,7.28,"Flask, Pandas, C++, Node.js, Excel, Java",3,0,Cloud Engineer,2,72,62,61,Not Placed
+Zoya Joshi,VIT Vellore,CE,8.18,"Docker, AWS, CSS, C++, FastAPI",3,2,Product Engineer,5,78,78,91,Placed
+Priyanshi Joshi,VIT Vellore,CSE,7.8,"Pandas, Java, Node.js, Docker, C++, PyTorch",3,1,Data Analyst,0,87,69,70,Not Placed
+Sakshi Bhat,ABES,AI & DS,7.6,"Python, NumPy, PyTorch, Linux, Git, C++",4,0,Cloud Engineer,0,75,65,70,Not Placed
+Sakshi Bhatt,SRM,ECE,6.32,"Flask, Java, TensorFlow, Python, Azure",2,1,Cyber Security Analyst,2,67,69,52,Not Placed
+Khushi Bhat,Chandigarh University,AI & DS,7.48,"NumPy, MongoDB, Azure, PyTorch, Docker, Linux, TensorFlow",3,1,ML Engineer,1,73,65,74,Not Placed
+Aarav Goel,"JSS Academy of Technical Education, Noida",AI & DS,7.2,"Java, TensorFlow, Git, Docker, CSS",1,1,Data Scientist,2,81,64,66,Not Placed
+Dhruv Reddy,IIIT Lucknow,AIML,8.55,"C++, TensorFlow, Excel, JavaScript, MongoDB, Linux",0,2,Database Engineer,1,93,62,83,Placed
+Arjun Gupta,Amity,AI & DS,8.56,"Git, Power BI, FastAPI, Node.js, Docker, Excel, HTML",3,2,ML Engineer,3,80,80,85,Placed
+Sneha Chopra,Amity,AIML,6.47,"Docker, NumPy, SQL, Power BI, Flask, AWS",2,0,Cyber Security Analyst,2,66,55,59,Not Placed
+Aryan Chopra,Chandigarh University,EEE,8.07,"PyTorch, Flask, CSS, MongoDB",2,0,Python Developer,1,93,58,69,Not Placed
+Ananya Sinha,Amity,EEE,8.64,"NumPy, C++, MongoDB, SQL, Excel, HTML, PyTorch",1,0,Data Analyst,1,72,55,70,Not Placed
+Dhruv Kapoor,Manipal Jaipur,ECE,8.06,"C++, Flask, Excel, NumPy",5,1,Database Engineer,0,87,74,87,Placed
+Palak Patel,IIIT Lucknow,IT,8.43,"MongoDB, PyTorch, Docker, Node.js, Python, JavaScript",1,1,Data Scientist,1,62,55,68,Not Placed
+Ankit Shukla,GLA University,ME,9.34,"NumPy, AWS, HTML, Flask, Git",2,1,Product Engineer,2,81,65,86,Placed
+Harsh Kulkarni,ABES,IT,9.07,"Linux, HTML, Git, TensorFlow, Java",4,0,Frontend Developer,0,76,65,73,Not Placed
+Sneha Dubey,IIIT Lucknow,CSE,9.13,"JavaScript, Linux, HTML, Java, Docker",1,0,Frontend Developer,0,90,50,71,Not Placed
+Nandini Bansal,VIT Vellore,CSE,7.51,"FastAPI, AWS, PyTorch, Java, MongoDB, CSS, Pandas",2,0,Full Stack Developer,2,83,63,61,Not Placed
+Varun Kulkarni,"JSS Academy of Technical Education, Noida",AIML,7.48,"Linux, Azure, SQL, Git, Flask",2,2,Python Developer,0,90,63,73,Not Placed
+Riya Pandey,KIET,ME,9.8,"AWS, Power BI, React, Java",3,0,Java Developer,2,60,63,81,Not Placed
+Ishita Rao,"JSS Academy of Technical Education, Noida",ME,7.49,"Docker, AWS, Git, Azure, React, Node.js",1,0,Product Engineer,0,76,53,63,Not Placed
+Neil Gupta,VIT Vellore,AI & DS,9.8,"Python, React, Power BI, Azure",2,0,Backend Developer,4,89,66,87,Placed
+Riya Jain,Chandigarh University,IT,9.31,"Power BI, CSS, NumPy, Flask, SQL, FastAPI, C++",4,1,Database Engineer,2,84,71,92,Placed
+Neha Mehta,SRM,AI & DS,7.14,"HTML, Excel, CSS, JavaScript, TensorFlow, Docker, React",3,0,Java Developer,1,69,63,67,Not Placed
+Tanish Joshi,ABES,CE,8.35,"JavaScript, PyTorch, MongoDB, Git",1,1,DevOps Engineer,2,88,62,80,Placed
+Karan Nair,AKGEC,ECE,6.77,"Power BI, Git, React, Azure, SQL",4,1,Backend Developer,2,75,79,69,Not Placed
+Muskan Chopra,AKGEC,ME,8.98,"C++, FastAPI, HTML, Docker, NumPy",2,1,Full Stack Developer,0,93,59,87,Placed
+Yash Shukla,Manipal Jaipur,ME,7.99,"Excel, C++, Docker, HTML, CSS, FastAPI",1,1,Data Analyst,1,91,58,67,Not Placed
+Rudra Reddy,AKGEC,AI & DS,8.78,"Python, SQL, JavaScript, PyTorch, TensorFlow, C++",1,1,Android Developer,1,62,54,75,Placed
+Aman Agarwal,Thapar,AIML,5.83,"JavaScript, TensorFlow, SQL, React, Azure",2,1,Software Engineer,1,62,62,55,Not Placed
+Abhishek Yadav,Thapar,AI & DS,8.02,"AWS, FastAPI, Node.js, HTML, React, MongoDB, Python",1,1,Data Scientist,1,76,62,67,Not Placed
+Shivam Bansal,Jaypee,ECE,7.86,"JavaScript, CSS, React, Power BI, PyTorch, Python, Node.js",3,1,Cloud Engineer,2,93,67,81,Placed
+Varun Sharma,Amity,CE,9.17,"CSS, Excel, HTML, MongoDB",2,1,Cloud Engineer,0,89,64,85,Placed
+Zoya Verma,IIIT Lucknow,EEE,9.28,"Docker, Flask, Pandas, Azure, Excel",3,1,Android Developer,4,70,77,86,Placed
+Ansh Bansal,Thapar,AIML,8.03,"Power BI, MongoDB, NumPy, JavaScript",3,1,QA Engineer,0,75,63,74,Not Placed
+Diya Shukla,Jaypee,ME,7.99,"Docker, Power BI, Git, PyTorch, Python, SQL",2,1,Frontend Developer,0,66,61,69,Not Placed
+Rohan Bhat,Chandigarh University,CSE,6.83,"AWS, React, FastAPI, TensorFlow",2,1,AI Engineer,0,78,65,57,Not Placed
+Priyanshi Malhotra,Amity,CSE,8.19,"Power BI, Flask, HTML, Node.js",1,1,Data Scientist,2,88,57,68,Not Placed
+Nikhil Malhotra,Bennett University,ME,7.91,"Linux, SQL, CSS, AWS, Docker, Flask",1,1,DevOps Engineer,2,90,60,70,Not Placed
+Parth Reddy,Manipal Jaipur,ME,8.21,"Power BI, HTML, Git, AWS, FastAPI, MongoDB",0,0,DevOps Engineer,1,88,48,68,Not Placed
+Harsh Pandey,GLA University,ECE,7.25,"Excel, C++, React, JavaScript, Docker, Python",1,1,Cloud Engineer,2,81,56,68,Not Placed
+Dhruv Saxena,IIIT Lucknow,CE,8.32,"Linux, Azure, MongoDB, SQL, Pandas",1,1,Frontend Developer,1,64,54,70,Not Placed
+Neha Singh,AKGEC,ECE,8.45,"React, Pandas, Excel, JavaScript, Flask, CSS, Java",3,2,Cyber Security Analyst,3,60,75,80,Placed
+Zoya Pillai,Bennett University,AI & DS,8.08,"Power BI, Python, Pandas, Docker, Flask",1,0,Data Scientist,1,93,56,67,Not Placed
+Nisha Chopra,Amity,CSE,6.84,"Flask, NumPy, SQL, Node.js",2,0,Python Developer,1,90,60,56,Not Placed
+Sakshi Srivastava,IIIT Lucknow,ECE,7.32,"Docker, SQL, TensorFlow, HTML, Excel, NumPy, Power BI",3,0,QA Engineer,3,90,67,68,Not Placed
+Tanish Das,GLA University,EEE,9.08,"Flask, Excel, HTML, FastAPI, Linux",1,1,Python Developer,3,58,58,71,Not Placed
+Ritika Bhat,Galgotias University,ME,7.86,"Python, Linux, Git, React, Java",2,0,Frontend Developer,4,71,63,67,Not Placed
+Yash Bhatt,Galgotias University,AI & DS,7.03,"Java, Git, C++, JavaScript",1,0,ML Engineer,0,72,48,51,Not Placed
+Ayaan Pandey,VIT Vellore,ECE,9.8,"Python, Git, MongoDB, TensorFlow",3,1,Full Stack Developer,2,62,68,89,Not Placed
+Aditya Mishra,Galgotias University,IT,7.51,"HTML, Java, AWS, Power BI, Node.js",2,0,Data Analyst,0,82,55,69,Not Placed
+Dhruv Bansal,AKGEC,EEE,7.66,"Linux, NumPy, Docker, Power BI, Excel",1,1,Full Stack Developer,2,81,63,62,Not Placed
+Meera Goel,SRM,AI & DS,7.35,"C++, Docker, JavaScript, SQL, Pandas",2,1,Java Developer,1,77,62,71,Not Placed
+Aditi Chawla,Thapar,AIML,7.55,"HTML, AWS, Azure, JavaScript, C++",2,1,Cloud Engineer,1,69,65,64,Not Placed
+Nandini Chawla,Thapar,EEE,7.87,"MongoDB, NumPy, Flask, C++",4,1,Frontend Developer,0,63,71,77,Not Placed
+Kabir Nigam,Galgotias University,AIML,6.44,"React, NumPy, HTML, FastAPI, PyTorch",1,0,Database Engineer,0,92,51,58,Not Placed
+Arjun Verma,"JSS Academy of Technical Education, Noida",IT,9.29,"Flask, JavaScript, Pandas, Java, C++",4,1,Product Engineer,5,94,85,95,Placed
+Nandini Reddy,"JSS Academy of Technical Education, Noida",ME,8.31,"React, Git, Docker, PyTorch",0,0,Cloud Engineer,1,95,51,70,Not Placed
+Diya Bhatt,VIT Vellore,ECE,7.59,"Python, Pandas, Java, JavaScript, React, AWS, FastAPI",4,1,ML Engineer,2,84,73,73,Not Placed
+Ishita Joshi,Manipal Jaipur,IT,7.12,"Python, Java, JavaScript, TensorFlow, Azure, HTML, FastAPI",4,2,Frontend Developer,2,63,78,72,Not Placed
+Aarav Chopra,AKGEC,EEE,7.12,"NumPy, Power BI, Azure, SQL, React, C++, Node.js",3,0,Data Analyst,3,80,65,66,Not Placed
+Kabir Tripathi,"JSS Academy of Technical Education, Noida",ECE,6.84,"Java, Pandas, Linux, TensorFlow, Node.js",4,0,Python Developer,0,86,68,63,Not Placed
+Aman Bansal,GLA University,AI & DS,8.87,"TensorFlow, NumPy, Azure, FastAPI, Java, Git, JavaScript",4,0,Data Scientist,1,91,65,85,Placed
+Om Shukla,"JSS Academy of Technical Education, Noida",ECE,7.72,"AWS, JavaScript, React, Linux, TensorFlow",2,2,Software Engineer,0,66,69,68,Not Placed
+Simran Sethi,Jaypee,EEE,8.97,"React, TensorFlow, Excel, PyTorch, SQL",4,0,Python Developer,3,84,75,86,Placed
+Ritika Sharma,KIET,IT,7.73,"Docker, Azure, CSS, Flask, Java, NumPy",2,0,ML Engineer,0,83,59,66,Not Placed
+Harsh Tripathi,Jaypee,EEE,7.57,"React, C++, MongoDB, Flask",3,1,Cyber Security Analyst,0,78,67,73,Not Placed
+Rahul Kulkarni,Galgotias University,AIML,7.13,"Power BI, React, NumPy, AWS",0,2,Data Scientist,1,61,62,59,Not Placed
+Rahul Srivastava,Bennett University,AI & DS,8.75,"Linux, Power BI, Azure, Docker, JavaScript, FastAPI",4,2,Full Stack Developer,1,59,77,83,Placed
+Abhishek Sharma,Galgotias University,CE,8.78,"PyTorch, SQL, Node.js, TensorFlow, C++, Git",3,1,Full Stack Developer,3,85,68,79,Placed
+Muskan Nigam,SRM,IT,6.87,"Git, SQL, Node.js, Power BI",1,0,Cloud Engineer,1,63,52,54,Not Placed
+Sarthak Mehta,GLA University,EEE,6.92,"Pandas, MongoDB, FastAPI, Flask",1,1,ML Engineer,0,86,58,58,Not Placed
+Meera Sharma,ABES,AIML,8.19,"HTML, NumPy, Node.js, Pandas, Docker, FastAPI, AWS",3,1,Android Developer,3,62,73,79,Placed
+Yash Mishra,AKGEC,AIML,8.95,"React, Git, Node.js, Docker",3,0,Data Analyst,0,83,63,71,Not Placed
+Ritika Chopra,Amity,EEE,6.99,"Linux, HTML, Flask, NumPy, SQL",3,0,Data Scientist,2,62,66,65,Not Placed
+Myra Agarwal,Thapar,CSE,7.14,"Git, AWS, Java, TensorFlow, Flask, Azure",5,1,Business Analyst,0,83,72,76,Placed
+Ayush Sharma,VIT Vellore,CE,7.23,"TensorFlow, React, Docker, SQL, HTML",3,0,Python Developer,2,75,64,66,Not Placed
+Vivaan Sinha,Galgotias University,EEE,7.12,"CSS, React, Excel, HTML, Node.js",3,2,Cyber Security Analyst,3,95,81,79,Not Placed
+Dhruv Sinha,Thapar,CSE,7.66,"Excel, Linux, Azure, Python, CSS",2,0,Java Developer,0,77,57,62,Not Placed
+Ankit Agarwal,Bennett University,IT,8.05,"PyTorch, AWS, CSS, Pandas",4,0,Data Scientist,1,75,69,76,Placed
+Ankit Menon,KIET,ME,7.22,"Excel, HTML, Flask, NumPy, React, PyTorch",3,1,Java Developer,0,91,63,75,Not Placed
+Rudra Yadav,Jaypee,AIML,6.89,"FastAPI, Java, C++, Azure, MongoDB",3,1,Software Engineer,3,59,72,61,Not Placed
+Abhishek Malhotra,VIT Vellore,EEE,9.2,"JavaScript, FastAPI, NumPy, AWS, Power BI",2,2,Product Engineer,1,81,70,82,Placed
+Ayush Saxena,ABES,AIML,8.79,"CSS, Python, TensorFlow, Docker, MongoDB, PyTorch, Flask",2,1,Data Scientist,0,85,62,83,Placed
+Aditya Joshi,IIIT Lucknow,IT,7.26,"AWS, FastAPI, Excel, Git, CSS",3,0,Python Developer,0,58,61,60,Not Placed
+Sakshi Malhotra,Thapar,ME,6.99,"FastAPI, SQL, Pandas, PyTorch",3,0,Python Developer,0,79,59,62,Not Placed
+Kabir Chawla,Chandigarh University,ME,6.69,"Power BI, NumPy, Azure, SQL",1,0,ML Engineer,3,94,55,61,Not Placed
+Ayaan Bansal,SRM,ME,8.82,"Linux, React, CSS, Flask, Java, Pandas, TensorFlow",1,1,DevOps Engineer,3,90,63,86,Placed
+Parth Kulkarni,"JSS Academy of Technical Education, Noida",ECE,6.95,"Docker, C++, Linux, React",4,0,Business Analyst,2,64,69,61,Not Placed
+Sakshi Rao,Jaypee,EEE,6.9,"NumPy, JavaScript, Flask, Java, CSS",4,1,Frontend Developer,0,84,71,69,Not Placed
+Avni Goel,Galgotias University,ECE,6.88,"Docker, Linux, Power BI, Flask",2,1,Data Analyst,1,82,66,71,Not Placed
+Aarav Mehta,Galgotias University,ME,7.71,"Java, AWS, C++, Git, FastAPI",1,1,Python Developer,2,74,61,72,Not Placed
+Tanvi Goel,Jaypee,AI & DS,7.52,"Azure, CSS, Python, FastAPI, Flask, NumPy, HTML",1,0,Product Engineer,1,94,54,64,Not Placed
+Ayaan Nair,Thapar,AIML,7.67,"MongoDB, C++, PyTorch, Flask, TensorFlow, Linux, HTML",3,1,DevOps Engineer,2,75,71,75,Placed
+Aditya Bhatt,Jaypee,AIML,6.77,"CSS, Pandas, NumPy, FastAPI",1,1,Full Stack Developer,2,79,57,60,Not Placed
+Karan Mehta,Jaypee,CE,8.05,"MongoDB, Pandas, AWS, Git, PyTorch, Linux, TensorFlow",2,2,Python Developer,0,87,68,79,Placed
+Sara Das,Manipal Jaipur,AI & DS,8.17,"Azure, Excel, Linux, JavaScript",2,2,AI Engineer,0,88,66,76,Not Placed
+Varun Joshi,Chandigarh University,CE,9.71,"C++, Pandas, Docker, JavaScript, MongoDB, Linux, Excel",1,2,Full Stack Developer,0,75,64,83,Placed
+Meera Nigam,Manipal Jaipur,CSE,6.12,"Excel, PyTorch, C++, Git, SQL",4,0,Backend Developer,2,89,69,63,Not Placed
+Tanvi Tripathi,ABES,IT,7.91,"FastAPI, SQL, Node.js, Power BI, Docker, Java, Python",1,1,AI Engineer,1,78,57,70,Not Placed
+Aman Nair,IIIT Lucknow,CSE,6.63,"HTML, CSS, Git, TensorFlow",0,1,Java Developer,2,68,57,52,Not Placed
+Sarthak Shukla,ABES,ME,6.31,"Power BI, CSS, SQL, Docker, TensorFlow",2,1,Frontend Developer,0,61,57,50,Not Placed
+Karan Jain,Jaypee,EEE,7.11,"Java, Docker, Excel, HTML, Pandas, FastAPI, Node.js",1,0,Backend Developer,2,67,58,52,Not Placed
+Aditya Chauhan,Amity,IT,8.03,"MongoDB, FastAPI, HTML, NumPy, Docker, Node.js",3,1,Full Stack Developer,1,80,67,80,Not Placed
+Shivam Srivastava,KIET,ME,9.16,"Power BI, Linux, Python, FastAPI",3,0,Business Analyst,1,85,59,79,Placed
+Dhruv Pandey,VIT Vellore,AI & DS,8.02,"Python, CSS, NumPy, Azure, Git, PyTorch, TensorFlow",3,1,Full Stack Developer,2,64,71,73,Not Placed
+Akash Saxena,ABES,IT,6.85,"Azure, Node.js, NumPy, Excel, Docker, Power BI",1,2,Full Stack Developer,4,64,71,61,Not Placed
+Ayush Tripathi,"JSS Academy of Technical Education, Noida",ME,6.15,"HTML, Linux, PyTorch, CSS",1,1,Business Analyst,0,92,52,55,Not Placed
+Aman Yadav,KIET,EEE,6.96,"Power BI, Flask, SQL, CSS, HTML",3,2,DevOps Engineer,1,63,70,72,Not Placed
+Neha Bansal,AKGEC,CE,9.04,"Git, Excel, SQL, TensorFlow, Java",2,1,ML Engineer,2,66,66,72,Not Placed
+Kavya Mishra,AKGEC,CE,8.49,"Azure, Flask, React, TensorFlow, Pandas, Java, Excel",3,1,Android Developer,4,91,78,86,Placed
+Ansh Bhatt,VIT Vellore,IT,9.74,"TensorFlow, JavaScript, FastAPI, HTML, C++, Node.js, Linux",2,0,QA Engineer,0,76,57,79,Placed
+Ayaan Malhotra,"JSS Academy of Technical Education, Noida",CSE,8.94,"NumPy, CSS, Git, Docker, MongoDB, SQL",2,1,Software Engineer,2,89,63,82,Placed
+Sarthak Yadav,Jaypee,ECE,7.01,"HTML, PyTorch, Azure, FastAPI, Python",4,1,QA Engineer,0,69,74,73,Not Placed
+Pooja Sethi,IIIT Lucknow,CE,6.95,"HTML, Flask, AWS, CSS, Java, React, FastAPI",3,1,Cloud Engineer,1,85,69,69,Not Placed
+Aman Malhotra,GLA University,ECE,7.17,"HTML, CSS, JavaScript, NumPy, Docker, FastAPI, Flask",0,2,Data Analyst,3,81,63,68,Not Placed
+Yash Sharma,"JSS Academy of Technical Education, Noida",AIML,8.89,"HTML, SQL, Azure, FastAPI, Pandas, PyTorch",3,0,Product Engineer,1,92,59,81,Placed
+Sara Patel,Amity,ECE,9.8,"Node.js, Azure, Flask, SQL",2,0,Software Engineer,4,82,63,92,Placed
+Tanish Rao,GLA University,ECE,6.38,"HTML, C++, Pandas, React, Python",0,0,AI Engineer,2,94,48,50,Not Placed
+Kavya Nair,AKGEC,ME,7.68,"MongoDB, Linux, PyTorch, Power BI, Docker",2,1,AI Engineer,2,74,68,70,Not Placed
+Dhruv Bhatt,SRM,CSE,7.8,"SQL, CSS, HTML, C++, Node.js, React",4,1,Backend Developer,2,94,71,79,Placed
+Reyansh Goel,Galgotias University,IT,8.41,"Pandas, Power BI, TensorFlow, AWS, Azure, React",2,1,DevOps Engineer,1,78,59,73,Not Placed
+Aditi Das,SRM,IT,7.22,"Excel, CSS, NumPy, Node.js, Docker, Pandas",4,1,Product Engineer,1,87,70,78,Placed
+Neil Bhatt,"JSS Academy of Technical Education, Noida",AI & DS,7.65,"Pandas, Power BI, MongoDB, Git",3,1,Android Developer,1,86,71,75,Placed
+Laksh Bansal,Chandigarh University,CE,7.69,"Power BI, CSS, FastAPI, C++, Python, NumPy",2,1,Backend Developer,2,75,69,70,Not Placed
+Ankit Dubey,VIT Vellore,IT,8.5,"Node.js, C++, JavaScript, PyTorch, React, MongoDB, NumPy",2,1,Business Analyst,2,74,69,75,Not Placed
+Rudra Mishra,GLA University,EEE,9.02,"Pandas, PyTorch, Flask, React, Power BI, TensorFlow, CSS",3,0,Java Developer,1,84,63,77,Not Placed
+Ansh Reddy,Bennett University,EEE,6.62,"AWS, Pandas, TensorFlow, JavaScript, Git",2,0,Frontend Developer,0,85,59,59,Not Placed
+Myra Menon,IIIT Lucknow,AI & DS,8.37,"PyTorch, Docker, SQL, Java, Pandas, TensorFlow",1,0,Software Engineer,1,60,52,63,Not Placed
+Kabir Ghosh,Thapar,CE,7.49,"HTML, Python, Excel, Pandas, Node.js, NumPy, PyTorch",1,0,DevOps Engineer,1,71,53,62,Not Placed
+Parth Das,KIET,CSE,7.57,"Java, Excel, TensorFlow, Flask, FastAPI, Docker, React",3,2,DevOps Engineer,2,87,79,77,Not Placed
+Shivam Bhat,ABES,CSE,8.25,"Node.js, Excel, CSS, Python, AWS, Java",2,0,Java Developer,2,76,58,67,Not Placed
+Shivam Chawla,AKGEC,IT,7.52,"Linux, Python, Flask, CSS, Pandas, NumPy, Power BI",2,1,Data Scientist,2,78,68,76,Placed
+Vihaan Nigam,"JSS Academy of Technical Education, Noida",ECE,6.47,"Docker, Java, TensorFlow, CSS",3,0,Database Engineer,2,69,62,62,Not Placed
+Dev Tiwari,KIET,AIML,7.52,"TensorFlow, React, HTML, Node.js, SQL, Power BI",1,0,AI Engineer,3,86,53,67,Not Placed
+Pooja Yadav,Jaypee,CSE,8.07,"Linux, Docker, React, MongoDB, AWS, Java, Power BI",3,0,Android Developer,1,75,66,70,Not Placed
+Ananya Shukla,Thapar,CE,6.72,"Excel, Pandas, MongoDB, Node.js, NumPy",5,2,ML Engineer,2,77,90,77,Placed
+Nisha Srivastava,SRM,AI & DS,6.92,"FastAPI, PyTorch, MongoDB, CSS, Power BI, Python",3,0,Java Developer,4,90,70,69,Not Placed
+Riya Bhat,GLA University,EEE,7.64,"Git, Power BI, Linux, SQL, Azure",1,0,Python Developer,2,83,56,71,Not Placed
+Ansh Ghosh,Amity,CSE,6.56,"HTML, Linux, PyTorch, NumPy, TensorFlow, Git",2,2,Business Analyst,4,64,75,68,Not Placed
+Rudra Arora,"JSS Academy of Technical Education, Noida",CE,6.48,"Docker, Excel, JavaScript, Python, C++, Git, HTML",1,1,Database Engineer,3,86,63,68,Not Placed
+Aditya Kumar,GLA University,AI & DS,5.81,"Linux, Docker, Python, PyTorch, Flask, Azure, Excel",2,1,AI Engineer,0,79,65,55,Not Placed
+Tanish Shukla,Bennett University,ECE,9.8,"Azure, Docker, Java, Python, React, Flask",1,0,AI Engineer,1,64,51,80,Placed
+Ayush Joshi,GLA University,ME,8.13,"MongoDB, PyTorch, FastAPI, AWS",2,0,Data Analyst,1,69,56,70,Not Placed
+Sneha Bhatt,Amity,AIML,7.01,"JavaScript, React, FastAPI, Azure, Pandas, SQL, Linux",1,1,Cyber Security Analyst,3,66,58,64,Not Placed
+Riya Mehta,Chandigarh University,CSE,6.92,"Azure, JavaScript, NumPy, Pandas, Node.js, FastAPI, Excel",2,1,Product Engineer,3,76,66,60,Not Placed
+Nisha Saxena,AKGEC,IT,9.49,"FastAPI, Node.js, NumPy, React, JavaScript, Java, Azure",3,0,Data Scientist,2,85,65,84,Placed
+Aryan Bansal,AKGEC,AIML,7.34,"Flask, CSS, Git, NumPy, Power BI",2,1,Full Stack Developer,2,86,67,64,Not Placed
+Nisha Chawla,IIIT Lucknow,ME,8.69,"Linux, HTML, Python, Flask, PyTorch, React, Git",4,0,Data Analyst,3,81,71,82,Placed
+Tanish Bhatt,Jaypee,AIML,7.66,"CSS, MongoDB, Node.js, React, Docker, Python, AWS",3,0,Database Engineer,1,75,58,71,Not Placed
+Rudra Goel,VIT Vellore,AIML,8.56,"AWS, MongoDB, SQL, C++, Git, Pandas, Node.js",3,1,Java Developer,1,61,71,73,Not Placed
+Sanya Ghosh,Thapar,IT,8.55,"SQL, Pandas, NumPy, HTML",2,0,Database Engineer,1,87,53,72,Not Placed
+Sakshi Sethi,ABES,ME,8.46,"Git, MongoDB, NumPy, CSS, Excel, SQL",2,0,Python Developer,4,84,60,72,Not Placed
+Kabir Sethi,IIIT Lucknow,AI & DS,5.99,"NumPy, Azure, JavaScript, Flask",2,0,Data Analyst,2,85,63,57,Not Placed
+Laksh Malhotra,Manipal Jaipur,ME,8.54,"JavaScript, FastAPI, Java, PyTorch, Git",3,1,QA Engineer,1,84,64,80,Not Placed
+Akash Das,Jaypee,CE,6.29,"Excel, MongoDB, Python, JavaScript, Power BI, Linux",1,0,QA Engineer,3,95,57,58,Not Placed
+Shivam Agarwal,GLA University,ECE,8.72,"FastAPI, React, Linux, NumPy",3,0,Product Engineer,1,58,59,65,Not Placed
+Vihaan Yadav,GLA University,EEE,7.17,"AWS, SQL, Node.js, HTML, Azure",5,2,ML Engineer,3,61,91,82,Placed
+Aryan Shukla,GLA University,ECE,8.03,"Node.js, CSS, C++, AWS, NumPy, MongoDB",1,1,Cyber Security Analyst,1,86,58,67,Not Placed
+Aarav Bansal,Jaypee,ECE,9.01,"MongoDB, SQL, TensorFlow, CSS, Flask, Node.js",4,2,ML Engineer,1,75,82,90,Placed
+Laksh Das,Amity,CSE,7.68,"Git, NumPy, Python, JavaScript, Excel",3,1,Cyber Security Analyst,1,58,64,70,Not Placed
+Nisha Dubey,Amity,AI & DS,9.03,"C++, CSS, React, TensorFlow, Power BI, Git, JavaScript",0,1,Cyber Security Analyst,0,88,52,69,Not Placed
+Sarthak Sharma,Amity,ME,9.3,"AWS, NumPy, TensorFlow, Linux, PyTorch",2,0,Python Developer,0,71,55,72,Not Placed
+Nandini Bhatt,Bennett University,ECE,7.55,"PyTorch, Git, NumPy, Excel",3,1,Android Developer,2,68,71,68,Not Placed
+Varun Arora,AKGEC,AI & DS,7.08,"C++, MongoDB, Java, Git, NumPy",3,1,Frontend Developer,0,90,67,65,Not Placed
+Ansh Kumar,Chandigarh University,ME,7.86,"React, PyTorch, Java, Power BI, SQL, Node.js",3,1,Business Analyst,1,65,72,76,Placed
+Arjun Ghosh,Galgotias University,EEE,7.66,"Docker, Node.js, Azure, HTML",3,0,Data Analyst,1,88,63,77,Not Placed
+Rahul Bhat,Chandigarh University,AI & DS,7.71,"Docker, AWS, Azure, Python",5,0,DevOps Engineer,1,62,70,64,Not Placed
+Yash Verma,KIET,ECE,6.96,"Linux, Git, Docker, C++, AWS, Excel, PyTorch",3,0,Product Engineer,0,85,59,62,Not Placed
+Sakshi Chawla,Thapar,ME,8.06,"CSS, NumPy, HTML, Node.js, Excel, Git, C++",5,0,Backend Developer,3,72,80,76,Placed
+Muskan Kulkarni,Manipal Jaipur,IT,7.93,"HTML, Java, Docker, AWS",2,1,QA Engineer,2,90,67,70,Not Placed
+Nandini Arora,GLA University,ECE,7.32,"FastAPI, NumPy, Python, Pandas, React",3,1,Cloud Engineer,3,83,73,69,Not Placed
+Dev Tiwari,"JSS Academy of Technical Education, Noida",AIML,8.37,"Node.js, CSS, Java, React, AWS, Git, Docker",5,0,Full Stack Developer,1,76,74,80,Placed
+Nikhil Yadav,KIET,AI & DS,8.29,"MongoDB, Pandas, Docker, JavaScript",3,0,Cyber Security Analyst,1,67,58,74,Not Placed
+Dev Mehta,Jaypee,ME,8.71,"Node.js, MongoDB, Docker, PyTorch",2,1,Data Analyst,1,93,66,82,Placed
+Nisha Chauhan,AKGEC,CE,7.95,"Docker, FastAPI, HTML, PyTorch, React, Azure, Linux",2,0,QA Engineer,1,90,58,72,Not Placed
+Sanya Bhatt,KIET,IT,8.88,"Excel, AWS, Python, Docker, React",1,2,Business Analyst,1,70,63,78,Placed
+Laksh Pandey,IIIT Lucknow,AIML,7.17,"FastAPI, TensorFlow, React, Java, JavaScript, Power BI, SQL",2,2,Frontend Developer,3,77,75,74,Not Placed
+Aman Kapoor,Chandigarh University,AIML,7.49,"MongoDB, Azure, Power BI, FastAPI",3,0,Android Developer,4,80,68,72,Not Placed
+Khushi Kumar,Thapar,ME,7.03,"FastAPI, Linux, React, Python, Node.js, Pandas, AWS",1,0,Full Stack Developer,3,91,53,62,Not Placed
+Neil Kapoor,Chandigarh University,EEE,7.18,"Azure, CSS, React, HTML, AWS, Git, Docker",3,1,Java Developer,2,59,70,61,Not Placed
+Nikhil Nair,ABES,CE,8.83,"Linux, Excel, React, NumPy, Azure",1,0,Business Analyst,3,67,53,68,Not Placed
+Akash Rao,VIT Vellore,CE,7.13,"Pandas, FastAPI, Azure, Flask, NumPy, TensorFlow",2,0,Java Developer,2,72,56,64,Not Placed
+Zoya Das,Amity,EEE,8.11,"Flask, C++, Azure, Pandas, TensorFlow, Linux",4,0,Frontend Developer,2,90,66,80,Not Placed
+Sarthak Jain,GLA University,CE,7.21,"Azure, NumPy, Pandas, AWS, Power BI, SQL, Python",2,0,Product Engineer,2,92,60,71,Not Placed
+Aryan Srivastava,Manipal Jaipur,ME,7.6,"React, Python, AWS, FastAPI, Git",2,0,Business Analyst,0,89,58,70,Not Placed
+Sanya Bhat,Chandigarh University,ECE,8.57,"Pandas, Node.js, PyTorch, SQL, TensorFlow, C++",3,1,Backend Developer,2,85,73,76,Not Placed
+Nandini Joshi,Chandigarh University,IT,8.22,"C++, Power BI, Docker, TensorFlow, React, PyTorch, MongoDB",2,1,QA Engineer,0,86,60,70,Not Placed
+Yash Rao,Manipal Jaipur,AIML,7.74,"Python, Pandas, Linux, FastAPI",2,1,Data Scientist,1,91,66,72,Not Placed
+Simran Gupta,KIET,CE,9.06,"Flask, C++, Linux, Power BI, NumPy, React, Java",0,0,AI Engineer,4,58,51,63,Not Placed
+Laksh Chopra,SRM,CE,6.84,"MongoDB, Flask, Git, Python, C++, PyTorch, NumPy",3,1,Data Scientist,5,66,76,67,Not Placed
+Aditya Nigam,Manipal Jaipur,ECE,8.21,"MongoDB, Docker, TensorFlow, Linux, JavaScript, NumPy",2,1,Backend Developer,2,63,65,74,Not Placed
+Kabir Pillai,Bennett University,AI & DS,9.22,"AWS, SQL, Power BI, Git",1,1,Python Developer,1,74,57,78,Placed
+Nikhil Nigam,Manipal Jaipur,CE,7.67,"FastAPI, C++, Excel, MongoDB, React, Power BI",4,1,Software Engineer,1,82,74,72,Not Placed
+Ayaan Mishra,Galgotias University,EEE,8.4,"Azure, AWS, NumPy, FastAPI, CSS, C++, Docker",3,2,Cyber Security Analyst,0,61,68,79,Placed
+Avni Sethi,KIET,IT,7.72,"Node.js, PyTorch, CSS, Flask",2,0,Backend Developer,2,60,55,69,Not Placed
+Krishna Chawla,Manipal Jaipur,ME,7.77,"Flask, Node.js, CSS, AWS, NumPy",1,0,QA Engineer,2,64,53,61,Not Placed
+Arjun Saxena,"JSS Academy of Technical Education, Noida",AIML,7.34,"TensorFlow, Linux, MongoDB, HTML, NumPy",2,0,AI Engineer,3,63,59,61,Not Placed
+Sanya Menon,AKGEC,EEE,7.58,"JavaScript, Node.js, Docker, Linux, React, SQL",1,1,Cloud Engineer,3,73,61,67,Not Placed
+Yash Tripathi,Manipal Jaipur,AIML,8.41,"AWS, CSS, Python, PyTorch, Azure, C++, Git",4,1,Cloud Engineer,1,60,71,73,Not Placed
+Avni Jain,Amity,CE,9.62,"Excel, HTML, JavaScript, Power BI, SQL, TensorFlow",2,0,Java Developer,0,76,58,79,Placed
+Khushi Chauhan,IIIT Lucknow,ME,8.39,"React, Pandas, Flask, FastAPI, HTML, Python, Azure",1,1,Python Developer,1,58,55,72,Not Placed
+Tanvi Tiwari,SRM,ECE,7.71,"C++, TensorFlow, JavaScript, NumPy, Power BI, CSS, Docker",1,1,Backend Developer,0,67,57,58,Not Placed
+Khushi Nigam,ABES,ME,7.64,"Azure, Linux, Excel, C++, HTML",3,0,Software Engineer,1,58,66,63,Not Placed
+Ayush Chopra,Thapar,AIML,7.26,"React, AWS, C++, TensorFlow, SQL, PyTorch, Linux",3,0,Frontend Developer,0,70,58,59,Not Placed
+Abhishek Pandey,SRM,ECE,7.89,"HTML, Linux, JavaScript, SQL, Excel, FastAPI, Flask",1,0,Cloud Engineer,0,63,48,52,Not Placed
+Muskan Sethi,Amity,CE,5.8,"Pandas, Linux, Flask, HTML, CSS, Java",2,0,Software Engineer,0,58,59,45,Not Placed
+Krishna Singh,Galgotias University,CE,7.87,"PyTorch, Node.js, HTML, C++, JavaScript",1,1,ML Engineer,2,93,62,67,Not Placed
+Palak Kumar,Manipal Jaipur,CSE,7.89,"SQL, Pandas, Power BI, Java, React, Node.js, NumPy",5,0,Software Engineer,2,84,76,75,Placed
+Sara Menon,Jaypee,AI & DS,8.71,"JavaScript, MongoDB, Excel, Pandas, Docker, TensorFlow, React",1,0,Data Analyst,1,58,50,69,Not Placed
+Ayaan Rao,"JSS Academy of Technical Education, Noida",AI & DS,6.91,"Node.js, PyTorch, Java, Flask, MongoDB, Linux",0,0,AI Engineer,3,78,48,62,Not Placed
+Nandini Pandey,Manipal Jaipur,ECE,7.1,"NumPy, C++, React, Flask, Node.js",2,0,Cyber Security Analyst,0,79,53,65,Not Placed
+Varun Verma,Chandigarh University,AI & DS,8.0,"Flask, Python, PyTorch, CSS",4,0,Frontend Developer,4,61,77,79,Placed
+Sanya Srivastava,AKGEC,CE,8.52,"HTML, Git, AWS, Docker, CSS, Node.js",4,0,Frontend Developer,5,75,76,88,Placed
+Ritika Chauhan,SRM,CSE,7.89,"Pandas, NumPy, JavaScript, Excel, SQL, Java, Git",2,0,Database Engineer,0,60,56,59,Not Placed
+Ishita Kapoor,SRM,CSE,8.73,"Linux, C++, HTML, AWS, Git",1,0,Java Developer,1,71,54,74,Not Placed
+Arjun Goel,Chandigarh University,AIML,8.41,"Python, HTML, MongoDB, NumPy, SQL, Flask",2,0,Data Analyst,3,79,58,73,Not Placed
+Neil Nair,Chandigarh University,CSE,6.95,"AWS, Azure, Node.js, TensorFlow, JavaScript, Power BI",2,0,Java Developer,0,63,54,56,Not Placed
+Arjun Mishra,Amity,AIML,8.15,"React, Azure, C++, Git, SQL, Flask",3,1,Business Analyst,3,62,72,78,Placed
+Laksh Srivastava,SRM,IT,8.75,"React, JavaScript, Linux, Python, Excel, Azure",2,0,QA Engineer,4,75,62,80,Not Placed
+Sara Yadav,"JSS Academy of Technical Education, Noida",AIML,8.11,"SQL, React, Java, CSS, Flask, Docker",2,1,Cyber Security Analyst,4,63,68,75,Not Placed
+Harsh Gupta,AKGEC,EEE,6.96,"MongoDB, Docker, Node.js, Excel",2,0,Android Developer,2,84,57,69,Not Placed
+Palak Chopra,AKGEC,CE,8.5,"React, FastAPI, SQL, Pandas, Git",1,0,DevOps Engineer,1,90,53,72,Not Placed
+Kabir Agarwal,Manipal Jaipur,ME,7.18,"MongoDB, Excel, Java, Node.js, JavaScript",3,0,QA Engineer,0,59,63,59,Not Placed
+Ritika Joshi,ABES,EEE,9.33,"Power BI, Java, HTML, Python, Node.js",4,1,Cloud Engineer,2,58,73,80,Placed
+Rudra Chauhan,KIET,IT,9.13,"AWS, HTML, Excel, CSS",0,0,Full Stack Developer,2,65,51,67,Not Placed
+Ankit Srivastava,Manipal Jaipur,ECE,7.94,"Power BI, HTML, CSS, Docker, Pandas",4,1,Java Developer,2,66,76,78,Placed
+Neil Reddy,Galgotias University,IT,8.65,"NumPy, Node.js, CSS, Pandas, Git, Azure, Power BI",1,1,Software Engineer,1,93,62,72,Not Placed
+Ananya Chawla,ABES,AIML,8.0,"Linux, NumPy, Docker, Pandas",2,0,Cloud Engineer,2,82,61,65,Not Placed
+Priyanshi Arora,SRM,EEE,7.73,"NumPy, React, JavaScript, HTML",1,0,Data Analyst,0,60,51,55,Not Placed
+Sanya Pandey,Amity,IT,7.87,"Power BI, Excel, Flask, Linux",4,0,Product Engineer,1,60,68,67,Not Placed
+Sakshi Chawla,Bennett University,CE,8.88,"Azure, Git, CSS, AWS, Linux",3,1,Full Stack Developer,1,66,71,84,Placed
+Vihaan Malhotra,AKGEC,AIML,8.72,"Docker, Java, AWS, Pandas",1,1,Backend Developer,1,87,55,82,Placed
+Palak Sharma,Chandigarh University,ME,8.69,"SQL, HTML, Docker, Flask",0,1,DevOps Engineer,1,92,49,73,Not Placed
+Nisha Tiwari,AKGEC,AI & DS,7.3,"Git, HTML, Linux, JavaScript, React",3,1,AI Engineer,1,92,67,70,Not Placed
+Kabir Ghosh,"JSS Academy of Technical Education, Noida",EEE,7.47,"Excel, Python, JavaScript, Flask",3,0,Cloud Engineer,2,71,62,66,Not Placed
+Arjun Joshi,Manipal Jaipur,EEE,6.24,"PyTorch, CSS, HTML, Docker",3,0,ML Engineer,1,83,66,59,Not Placed
+Krishna Tiwari,Bennett University,CSE,8.2,"FastAPI, PyTorch, MongoDB, Node.js, C++",4,0,ML Engineer,0,95,65,79,Placed
+Neha Menon,IIIT Lucknow,CE,8.78,"NumPy, C++, FastAPI, Node.js, React, Java",0,1,Business Analyst,2,73,51,74,Not Placed
+Vivaan Nair,Manipal Jaipur,ECE,8.79,"PyTorch, Excel, Power BI, CSS, Git",2,2,QA Engineer,0,73,69,76,Placed
+Dhruv Menon,Jaypee,AI & DS,7.86,"PyTorch, MongoDB, Power BI, Pandas, Excel, Linux",1,1,Android Developer,3,70,66,66,Not Placed
+Riya Pillai,SRM,ME,8.51,"JavaScript, Node.js, Git, Python, Flask, SQL",0,1,Data Scientist,1,93,52,73,Not Placed
+Myra Sethi,Jaypee,EEE,7.79,"React, Flask, Pandas, Linux, Git, AWS",5,1,AI Engineer,3,83,79,83,Placed
+Sneha Chauhan,Bennett University,CSE,7.78,"Flask, Node.js, Linux, Azure, Pandas",3,2,Cyber Security Analyst,2,89,74,81,Placed
+Ayush Mishra,"JSS Academy of Technical Education, Noida",CSE,7.91,"NumPy, AWS, Linux, Flask, Node.js",2,0,DevOps Engineer,0,72,51,69,Not Placed
+Kabir Das,IIIT Lucknow,ECE,8.67,"Flask, SQL, JavaScript, Git, TensorFlow",2,0,ML Engineer,3,92,59,85,Placed
+Ayush Srivastava,Bennett University,IT,9.21,"TensorFlow, React, Power BI, AWS, Excel, PyTorch",3,1,Data Analyst,2,80,69,80,Placed
+Sarthak Srivastava,AKGEC,AIML,8.74,"JavaScript, C++, Git, React",3,3,Database Engineer,0,93,75,91,Placed
+Ayaan Gupta,Amity,AIML,7.2,"CSS, NumPy, Docker, HTML, TensorFlow, C++, FastAPI",5,1,Product Engineer,2,67,83,69,Not Placed
+Dev Bansal,AKGEC,EEE,7.6,"Linux, Flask, Azure, Git, JavaScript, TensorFlow, C++",4,0,Backend Developer,4,87,77,73,Not Placed
+Nikhil Kulkarni,"JSS Academy of Technical Education, Noida",CSE,7.27,"JavaScript, FastAPI, MongoDB, CSS, SQL, Excel, TensorFlow",4,0,Database Engineer,1,71,68,69,Not Placed
+Meera Kapoor,IIIT Lucknow,AIML,8.23,"SQL, React, PyTorch, TensorFlow",4,1,Python Developer,0,67,75,81,Not Placed
+Neha Kulkarni,"JSS Academy of Technical Education, Noida",ME,8.68,"MongoDB, Flask, C++, Power BI, Python, NumPy",2,0,ML Engineer,1,82,57,70,Not Placed
+Nandini Bhat,Bennett University,ME,6.36,"NumPy, AWS, Pandas, MongoDB",1,0,Java Developer,0,69,53,49,Not Placed
+Priyanshi Dubey,AKGEC,CE,7.78,"Linux, MongoDB, Java, FastAPI, TensorFlow, C++, PyTorch",2,0,Backend Developer,2,58,58,58,Not Placed
+Priyanshi Chawla,VIT Vellore,AI & DS,8.27,"Azure, Power BI, Node.js, Excel, Java",3,0,ML Engineer,2,89,65,81,Placed
+Nikhil Bansal,Galgotias University,CE,8.59,"Azure, SQL, Docker, MongoDB, Node.js, Excel, Power BI",1,1,Backend Developer,1,60,55,71,Not Placed
+Sanya Sethi,AKGEC,AI & DS,7.7,"Java, React, TensorFlow, AWS, Power BI, Flask, PyTorch",1,1,Product Engineer,0,91,52,71,Not Placed
+Tanish Malhotra,KIET,AI & DS,7.36,"PyTorch, Power BI, SQL, Python",3,1,Backend Developer,0,82,70,73,Not Placed
+Kavya Jain,AKGEC,ME,7.5,"TensorFlow, Java, C++, JavaScript, React, Excel",2,1,Business Analyst,1,58,63,65,Not Placed
+Reyansh Malhotra,GLA University,ECE,7.88,"Excel, Java, Pandas, TensorFlow, MongoDB",3,0,Full Stack Developer,5,83,73,74,Not Placed
+Khushi Chawla,AKGEC,AIML,8.25,"Git, NumPy, MongoDB, C++, Node.js, Docker",4,1,Frontend Developer,0,83,70,76,Placed
+Aarav Shukla,Jaypee,AIML,8.36,"Power BI, C++, Pandas, AWS, CSS",2,1,Software Engineer,1,90,67,77,Placed
+Dev Agarwal,GLA University,CSE,7.39,"SQL, FastAPI, React, Excel, PyTorch, C++",2,0,Full Stack Developer,3,70,64,66,Not Placed
+Neil Chopra,Amity,ME,7.23,"Docker, Linux, Excel, Node.js, Python",3,0,Full Stack Developer,2,69,66,64,Not Placed
+Reyansh Nair,GLA University,ME,9.06,"Azure, HTML, FastAPI, PyTorch",2,0,Business Analyst,2,62,61,73,Not Placed
+Shivam Malhotra,"JSS Academy of Technical Education, Noida",EEE,9.05,"Linux, HTML, Azure, React, Git, FastAPI, MongoDB",4,2,Backend Developer,1,74,79,90,Placed
+Varun Bhatt,GLA University,EEE,8.26,"Azure, FastAPI, SQL, Java, MongoDB, Linux",5,1,Backend Developer,4,79,84,84,Placed
+Yash Malhotra,"JSS Academy of Technical Education, Noida",CSE,9.06,"SQL, Git, React, Azure, C++, Linux, NumPy",4,2,Software Engineer,3,74,83,85,Placed
+Dev Pillai,KIET,ME,8.11,"JavaScript, Power BI, Docker, CSS, C++",1,2,DevOps Engineer,0,89,62,76,Placed
+Abhishek Verma,Thapar,EEE,8.47,"Linux, FastAPI, Python, Java",3,2,Software Engineer,4,71,78,82,Placed
+Priyanshi Das,Chandigarh University,ME,8.48,"Java, Flask, Linux, Azure",3,2,Python Developer,1,78,70,88,Placed
+Priyanshi Sinha,"JSS Academy of Technical Education, Noida",AI & DS,6.21,"CSS, Docker, C++, Java, Python, Linux",3,0,Backend Developer,1,87,63,64,Not Placed
+Riya Chauhan,Jaypee,ME,9.25,"Excel, Power BI, Python, JavaScript",2,1,Cyber Security Analyst,1,80,60,82,Placed
+Sanya Tripathi,Galgotias University,CE,6.89,"TensorFlow, MongoDB, Git, HTML",1,0,Python Developer,3,74,60,54,Not Placed
+Neil Arora,Manipal Jaipur,ME,7.52,"SQL, PyTorch, CSS, Git, AWS, Pandas, Flask",5,0,Data Scientist,3,86,78,73,Not Placed
+Shivam Nair,GLA University,IT,8.28,"Flask, React, Linux, PyTorch, Java",2,0,Android Developer,0,91,57,75,Not Placed
+Priyanshi Nigam,IIIT Lucknow,IT,8.6,"Azure, TensorFlow, React, Linux, FastAPI, Excel, Docker",1,0,Data Scientist,2,92,58,69,Not Placed
+Yash Dubey,KIET,CSE,7.52,"SQL, PyTorch, Git, CSS, Node.js, Power BI",3,0,Python Developer,2,68,65,63,Not Placed
+Khushi Sharma,IIIT Lucknow,AIML,8.13,"TensorFlow, Node.js, React, SQL, Python, MongoDB",0,0,Full Stack Developer,1,73,48,57,Not Placed
+Abhishek Nair,Galgotias University,AIML,7.63,"Git, PyTorch, Pandas, Docker, SQL, C++",2,1,Product Engineer,1,64,61,61,Not Placed
+Abhishek Shukla,Thapar,AI & DS,8.13,"MongoDB, TensorFlow, Node.js, Python, C++, JavaScript",3,0,Business Analyst,0,83,63,76,Placed
+Harsh Mishra,AKGEC,CSE,9.8,"Java, JavaScript, C++, HTML, SQL, React, MongoDB",3,0,Data Scientist,0,70,59,79,Placed
+Sarthak Nigam,Thapar,IT,8.68,"Git, MongoDB, HTML, PyTorch, TensorFlow",0,0,Android Developer,1,82,48,63,Not Placed
+Simran Kapoor,KIET,EEE,7.59,"Excel, Linux, C++, Git, Pandas",2,2,DevOps Engineer,0,74,67,70,Not Placed
+Ansh Gupta,Manipal Jaipur,EEE,7.5,"MongoDB, Docker, AWS, Java, Azure, HTML, TensorFlow",2,1,ML Engineer,0,92,65,76,Placed
+Priyanshi Sethi,Amity,EEE,7.69,"Java, TensorFlow, CSS, SQL, Node.js, FastAPI, AWS",0,1,Product Engineer,2,72,54,68,Not Placed
+Sarthak Bhatt,"JSS Academy of Technical Education, Noida",ME,8.98,"AWS, Pandas, PyTorch, C++, Git",3,3,Cyber Security Analyst,3,70,82,87,Placed
+Abhishek Bansal,KIET,EEE,9.27,"MongoDB, NumPy, C++, JavaScript",0,1,Android Developer,4,64,61,72,Not Placed
+Vivaan Pandey,Chandigarh University,ECE,7.58,"Java, Excel, CSS, HTML, NumPy",1,1,Java Developer,1,73,55,69,Not Placed
+Simran Chawla,"JSS Academy of Technical Education, Noida",ME,7.79,"FastAPI, JavaScript, TensorFlow, Excel, Git, Linux, AWS",0,0,Data Analyst,2,75,52,59,Not Placed
+Aditi Mishra,GLA University,EEE,8.51,"PyTorch, React, HTML, Excel, Flask, CSS, Power BI",1,1,Cloud Engineer,2,64,61,67,Not Placed
+Parth Saxena,ABES,AIML,8.57,"TensorFlow, C++, React, Pandas, Azure",1,0,Android Developer,3,78,58,73,Not Placed
+Aarav Bhatt,Chandigarh University,EEE,7.75,"Python, Docker, Node.js, MongoDB, Git, Power BI",1,1,Backend Developer,3,71,63,64,Not Placed
+Aditya Goel,Manipal Jaipur,AI & DS,7.43,"Docker, Node.js, NumPy, Python, JavaScript, SQL",3,1,Frontend Developer,0,75,68,62,Not Placed
+Sarthak Gupta,GLA University,CE,8.15,"NumPy, Node.js, JavaScript, C++, Git, FastAPI",4,1,AI Engineer,0,94,69,83,Placed
+Arjun Pillai,VIT Vellore,CE,8.2,"Java, PyTorch, Excel, Pandas, FastAPI, Azure",2,0,Business Analyst,6,74,67,76,Placed
+Krishna Sinha,AKGEC,ECE,7.85,"Git, Linux, Flask, Power BI",2,0,DevOps Engineer,2,59,63,61,Not Placed
+Om Chauhan,SRM,AI & DS,7.06,"MongoDB, Node.js, NumPy, Excel",1,1,Database Engineer,3,62,59,64,Not Placed
+Aditya Verma,SRM,AIML,7.9,"Linux, AWS, Excel, C++, SQL",2,1,Android Developer,3,63,68,66,Not Placed
+Nandini Singh,Manipal Jaipur,CSE,7.64,"React, Docker, Git, SQL",1,2,Android Developer,1,78,68,69,Not Placed
+Aryan Kulkarni,Thapar,AI & DS,7.91,"FastAPI, Azure, JavaScript, React, C++",1,0,AI Engineer,1,76,48,69,Not Placed
+Muskan Agarwal,"JSS Academy of Technical Education, Noida",CSE,8.82,"Python, Excel, HTML, C++",3,0,Full Stack Developer,0,64,58,75,Not Placed
+Myra Ghosh,"JSS Academy of Technical Education, Noida",AIML,9.78,"FastAPI, Git, Node.js, Power BI, HTML",3,1,Software Engineer,3,60,73,81,Placed
+Dev Das,Manipal Jaipur,CE,8.02,"CSS, C++, Power BI, Linux, Excel, HTML, Git",2,0,Software Engineer,1,73,53,66,Not Placed
+Tanvi Gupta,IIIT Lucknow,AI & DS,8.56,"CSS, NumPy, Docker, Azure, JavaScript",3,2,Cloud Engineer,1,95,74,82,Placed
+Neil Bhat,Jaypee,AI & DS,8.12,"AWS, FastAPI, Pandas, Excel",3,2,Android Developer,2,95,79,87,Placed
+Arjun Nair,Jaypee,AIML,7.63,"Azure, MongoDB, C++, PyTorch, TensorFlow, Git",2,1,Backend Developer,2,82,68,67,Not Placed
+Om Menon,Jaypee,ME,6.9,"AWS, CSS, Java, NumPy",3,0,Cyber Security Analyst,2,87,65,71,Not Placed
+Dev Arora,ABES,AIML,7.08,"Flask, CSS, MongoDB, PyTorch, Docker",3,1,Business Analyst,1,88,70,76,Placed
+Sakshi Reddy,SRM,ME,8.18,"MongoDB, C++, HTML, AWS, NumPy",2,0,Android Developer,2,86,62,70,Not Placed
+Ankit Gupta,VIT Vellore,ECE,8.51,"Azure, React, Flask, Docker, NumPy",1,1,Backend Developer,3,61,65,72,Not Placed
+Avni Bhat,GLA University,ECE,7.68,"C++, Node.js, Excel, JavaScript, Linux",2,1,Database Engineer,2,88,63,70,Not Placed
+Yash Chawla,Manipal Jaipur,CSE,8.34,"Pandas, Python, Node.js, Power BI, Azure",2,0,Database Engineer,2,60,59,65,Not Placed
+Vihaan Chawla,SRM,ECE,8.0,"HTML, Excel, SQL, Java",2,0,Product Engineer,2,83,58,73,Not Placed
+Ayush Tiwari,IIIT Lucknow,ME,9.07,"Java, Git, Python, Node.js, CSS",0,1,AI Engineer,2,80,58,78,Not Placed
+Ishita Verma,ABES,CE,7.96,"Azure, PyTorch, C++, Java, Flask",2,0,Data Analyst,2,73,59,63,Not Placed
+Abhishek Das,IIIT Lucknow,ME,8.44,"Git, Python, Node.js, HTML, Power BI, AWS, Flask",2,2,Software Engineer,2,70,68,83,Placed
+Reyansh Menon,Bennett University,CSE,7.34,"Git, NumPy, MongoDB, FastAPI, PyTorch",1,0,Cyber Security Analyst,3,61,54,53,Not Placed
+Akash Malhotra,Chandigarh University,EEE,7.34,"MongoDB, Java, Python, NumPy, FastAPI",1,1,Cyber Security Analyst,0,70,52,61,Not Placed
+Dev Bhatt,Thapar,CE,7.47,"AWS, CSS, React, NumPy",1,0,Frontend Developer,0,79,49,62,Not Placed
+Parth Nair,AKGEC,ME,8.99,"React, Docker, Pandas, Java, TensorFlow, AWS",2,1,Cloud Engineer,1,72,64,80,Placed
+Priyanshi Chauhan,VIT Vellore,AI & DS,7.14,"Java, SQL, Power BI, HTML, CSS",2,1,Cyber Security Analyst,3,62,70,58,Not Placed
+Arjun Srivastava,"JSS Academy of Technical Education, Noida",CE,8.64,"SQL, CSS, Linux, AWS, Power BI",2,0,ML Engineer,1,58,61,66,Not Placed
+Aryan Arora,Chandigarh University,AIML,7.48,"TensorFlow, MongoDB, Java, NumPy",1,1,Android Developer,0,62,54,60,Not Placed
+Vivaan Gupta,IIIT Lucknow,IT,7.42,"Java, NumPy, TensorFlow, Git",3,1,Database Engineer,2,90,72,80,Placed
+Pooja Nair,GLA University,EEE,8.34,"Azure, Node.js, Docker, Linux",4,0,QA Engineer,0,88,63,75,Placed
+Meera Agarwal,Amity,AIML,6.71,"Flask, Linux, Excel, Java, HTML",3,0,Software Engineer,2,69,65,61,Not Placed
+Riya Patel,Amity,CE,7.84,"Linux, C++, MongoDB, TensorFlow",2,1,Java Developer,2,70,69,68,Not Placed
+Dev Joshi,SRM,AI & DS,7.76,"TensorFlow, Python, SQL, Git, Java, JavaScript",3,0,Python Developer,2,78,65,65,Not Placed
+Tanvi Srivastava,VIT Vellore,EEE,8.05,"Linux, SQL, Power BI, TensorFlow",4,1,ML Engineer,0,68,71,71,Not Placed
+Nikhil Chawla,Amity,AI & DS,8.0,"Azure, TensorFlow, SQL, MongoDB, React",5,0,ML Engineer,3,59,73,72,Not Placed
+Sakshi Ghosh,AKGEC,CSE,7.68,"C++, AWS, Flask, Docker, TensorFlow",1,0,Python Developer,1,67,50,57,Not Placed
+Rohan Pandey,IIIT Lucknow,EEE,9.22,"FastAPI, Power BI, HTML, Flask, Linux, TensorFlow, Java",2,1,QA Engineer,1,95,63,81,Placed
+Ananya Pandey,KIET,AIML,8.12,"HTML, PyTorch, Flask, React, Power BI, Python, MongoDB",3,0,Data Scientist,1,72,64,65,Not Placed
+Sara Dubey,Chandigarh University,ECE,8.31,"Linux, FastAPI, Python, Java, TensorFlow, MongoDB",2,3,Product Engineer,1,82,76,79,Placed
+Sara Patel,KIET,ECE,7.56,"Azure, Power BI, Flask, Excel, Pandas",2,0,Python Developer,0,75,55,60,Not Placed
+Vivaan Kumar,Amity,AI & DS,6.44,"AWS, Excel, React, CSS",4,1,QA Engineer,1,67,76,67,Not Placed
+Reyansh Singh,Chandigarh University,CSE,7.54,"Azure, NumPy, Python, Docker",3,0,Cyber Security Analyst,3,94,62,71,Not Placed
+Ira Jain,Jaypee,AIML,7.43,"Azure, Python, SQL, C++, AWS",3,2,Data Analyst,1,85,76,72,Not Placed
+Tanish Reddy,GLA University,AIML,8.5,"Excel, PyTorch, TensorFlow, HTML, AWS",2,0,Android Developer,1,87,57,71,Not Placed
+Priyanshi Reddy,GLA University,EEE,7.45,"Flask, MongoDB, Java, C++, HTML",4,1,Cloud Engineer,3,61,76,68,Not Placed
+Nikhil Menon,Thapar,AI & DS,8.42,"TensorFlow, Flask, PyTorch, HTML, Power BI, Git",0,0,Frontend Developer,2,72,51,69,Not Placed
+Karan Patel,Amity,CE,8.18,"Git, FastAPI, PyTorch, MongoDB, Pandas",1,0,Data Analyst,2,95,54,73,Not Placed
+Pooja Gupta,Bennett University,AIML,7.85,"JavaScript, Git, MongoDB, React, Azure, Excel, NumPy",5,0,Data Scientist,2,66,77,73,Not Placed
+Rohan Goel,Thapar,IT,8.35,"Java, Python, CSS, Excel, Azure, Pandas",1,1,Database Engineer,0,86,58,66,Not Placed
+Krishna Bhat,KIET,AIML,7.38,"React, Java, FastAPI, MongoDB, PyTorch",2,1,ML Engineer,1,77,65,69,Not Placed
+Rohan Malhotra,VIT Vellore,AI & DS,6.68,"Node.js, C++, SQL, Flask, Git, MongoDB, React",0,0,Python Developer,1,61,48,45,Not Placed
+Om Rao,KIET,ECE,7.96,"NumPy, Java, Pandas, Node.js, Linux, FastAPI",3,1,QA Engineer,3,75,76,80,Placed
+Ayush Mishra,"JSS Academy of Technical Education, Noida",AI & DS,8.9,"Python, Azure, Flask, Node.js, Excel, JavaScript, Git",2,0,Business Analyst,1,84,54,75,Placed
+Tanvi Joshi,VIT Vellore,EEE,7.02,"C++, MongoDB, TensorFlow, NumPy, Pandas",3,0,Backend Developer,2,63,63,59,Not Placed
+Ankit Arora,Bennett University,ECE,7.73,"Power BI, AWS, JavaScript, C++, Azure",1,1,AI Engineer,2,88,63,77,Placed
+Om Chopra,AKGEC,EEE,8.8,"Docker, FastAPI, Pandas, CSS, Linux, Python, Git",2,1,Full Stack Developer,1,59,59,73,Not Placed
+Karan Malhotra,KIET,AIML,8.05,"Pandas, Git, MongoDB, SQL, PyTorch, AWS",4,1,Cyber Security Analyst,1,58,71,78,Placed
+Riya Nigam,"JSS Academy of Technical Education, Noida",AI & DS,7.91,"JavaScript, Docker, Excel, Node.js, Python, MongoDB",2,0,AI Engineer,1,92,57,66,Not Placed
+Zoya Chauhan,AKGEC,IT,6.8,"SQL, CSS, MongoDB, Docker, Power BI",4,0,Product Engineer,2,87,66,65,Not Placed
+Tanish Saxena,GLA University,ME,7.09,"HTML, NumPy, Power BI, C++, Java, React",3,1,Database Engineer,0,68,64,69,Not Placed
+Akash Agarwal,VIT Vellore,AIML,6.5,"C++, Power BI, FastAPI, HTML, Flask, Git",0,2,QA Engineer,1,63,56,55,Not Placed
+Aryan Tripathi,"JSS Academy of Technical Education, Noida",CE,7.09,"NumPy, JavaScript, C++, Azure, Excel",3,1,Backend Developer,1,93,66,78,Placed
+Harsh Joshi,VIT Vellore,IT,7.59,"AWS, Python, Java, Pandas",3,1,Python Developer,0,90,63,70,Not Placed
+Aditya Ghosh,Amity,EEE,8.64,"Python, PyTorch, Node.js, FastAPI",3,1,Android Developer,1,77,65,79,Placed
+Palak Ghosh,Galgotias University,EEE,7.71,"C++, Java, Git, Pandas, React",2,1,ML Engineer,1,72,59,62,Not Placed
+Tanvi Rao,Galgotias University,EEE,6.6,"Pandas, FastAPI, SQL, C++, HTML, Azure",3,0,QA Engineer,2,83,64,66,Not Placed
+Meera Rao,VIT Vellore,IT,7.44,"Linux, AWS, Node.js, HTML, Excel, Java, PyTorch",2,0,Data Analyst,3,76,64,68,Not Placed
+Karan Sinha,SRM,CE,7.8,"FastAPI, React, Pandas, Docker, Linux, SQL",2,1,DevOps Engineer,1,86,60,71,Not Placed
+Ishita Dubey,Amity,AI & DS,7.92,"CSS, Java, C++, MongoDB, TensorFlow",3,1,QA Engineer,0,73,63,71,Not Placed
+Sanya Singh,Galgotias University,AI & DS,8.79,"PyTorch, Azure, MongoDB, Pandas, JavaScript",1,0,ML Engineer,0,84,48,73,Not Placed
+Ananya Tiwari,Bennett University,CSE,7.35,"React, Python, SQL, Git, AWS, C++",1,0,Cloud Engineer,2,61,50,63,Not Placed
+Laksh Kumar,Chandigarh University,ECE,5.9,"Docker, JavaScript, SQL, PyTorch",2,0,Python Developer,1,60,58,51,Not Placed
+Tanish Kulkarni,Bennett University,AIML,8.49,"C++, NumPy, Azure, Pandas, FastAPI, CSS, AWS",3,0,Business Analyst,2,90,63,77,Placed
+Nisha Patel,AKGEC,EEE,8.64,"React, NumPy, Java, JavaScript, TensorFlow",3,1,Full Stack Developer,2,93,74,88,Placed
+Ankit Sharma,AKGEC,ECE,8.6,"Excel, PyTorch, NumPy, FastAPI, TensorFlow",2,1,DevOps Engineer,0,61,58,68,Not Placed
+Tanvi Pillai,Jaypee,AI & DS,8.0,"Power BI, AWS, Git, Linux",3,1,DevOps Engineer,2,91,68,76,Placed
+Rudra Jain,AKGEC,ME,9.14,"Pandas, Azure, Flask, React, Docker, SQL, PyTorch",4,0,Backend Developer,0,70,64,76,Placed
+Yash Das,Bennett University,CSE,8.15,"Excel, MongoDB, Node.js, C++, JavaScript, Pandas, FastAPI",4,2,Java Developer,0,89,73,82,Placed
+Rahul Menon,Galgotias University,IT,8.54,"Docker, Git, JavaScript, Power BI, Pandas, Python, PyTorch",3,1,Software Engineer,1,82,66,79,Placed
+Khushi Kulkarni,Chandigarh University,CSE,7.31,"Java, HTML, PyTorch, MongoDB, Linux, Python, Power BI",2,1,Product Engineer,1,78,61,61,Not Placed
+Dhruv Nigam,KIET,EEE,5.8,"Flask, Azure, Docker, Excel, Pandas, FastAPI, C++",0,0,ML Engineer,3,91,54,55,Not Placed
+Tanish Joshi,KIET,CE,8.13,"Python, MongoDB, React, TensorFlow, PyTorch, HTML",6,1,Cyber Security Analyst,5,92,87,92,Placed
+Muskan Kapoor,Jaypee,IT,7.96,"React, Java, CSS, NumPy, PyTorch",4,0,Java Developer,2,95,73,76,Placed
+Sanya Saxena,Jaypee,ME,7.22,"NumPy, MongoDB, PyTorch, Git, HTML, TensorFlow, Node.js",1,1,Python Developer,1,75,54,62,Not Placed
+Om Verma,KIET,CSE,7.84,"FastAPI, MongoDB, HTML, Flask",4,0,Cyber Security Analyst,2,80,72,80,Placed
+Abhishek Chawla,VIT Vellore,EEE,8.66,"Git, Python, CSS, Azure",3,1,Cyber Security Analyst,2,82,72,88,Placed
+Vivaan Saxena,"JSS Academy of Technical Education, Noida",ME,8.65,"SQL, Excel, Git, PyTorch, Java, Linux, Python",0,0,ML Engineer,2,91,53,75,Placed
+Myra Goel,Bennett University,CSE,8.57,"Git, Flask, Azure, Node.js, NumPy",1,0,Backend Developer,0,89,50,72,Not Placed
+Yash Bansal,IIIT Lucknow,EEE,7.89,"CSS, Excel, C++, PyTorch, MongoDB, NumPy, FastAPI",3,0,Android Developer,1,94,58,70,Not Placed
+Pooja Mishra,Amity,ME,9.45,"FastAPI, TensorFlow, PyTorch, SQL, Python",3,1,Software Engineer,2,77,68,87,Not Placed
+Neha Das,VIT Vellore,CE,7.75,"PyTorch, Git, Java, Python, JavaScript",3,0,Business Analyst,1,83,66,69,Not Placed
+Ansh Das,VIT Vellore,AIML,8.93,"React, Java, HTML, TensorFlow, Docker, Node.js",3,0,Business Analyst,3,63,65,82,Placed
+Rudra Sinha,Thapar,ME,7.74,"TensorFlow, Python, Docker, Linux, JavaScript",3,0,ML Engineer,3,78,68,69,Not Placed
+Nandini Shukla,ABES,IT,8.0,"Azure, C++, Power BI, Python, HTML, MongoDB",1,0,Java Developer,3,58,60,64,Not Placed
+Karan Tiwari,ABES,AIML,8.09,"Linux, PyTorch, React, C++, NumPy, Java, Flask",3,0,DevOps Engineer,2,86,61,78,Placed
+Ishita Mishra,ABES,AIML,7.56,"Excel, Docker, CSS, FastAPI, Python",2,1,Full Stack Developer,3,58,69,60,Not Placed
+Ananya Singh,ABES,CE,7.9,"React, Pandas, Flask, Git, Docker",3,0,Java Developer,2,78,62,74,Not Placed
+Reyansh Sharma,Chandigarh University,AIML,7.31,"CSS, React, Linux, PyTorch, C++",3,1,Data Scientist,3,65,72,75,Placed
+Krishna Nair,Amity,AI & DS,8.86,"C++, CSS, Git, SQL, HTML",2,1,QA Engineer,2,63,68,72,Not Placed
+Aman Sethi,IIIT Lucknow,AI & DS,7.95,"MongoDB, React, PyTorch, Power BI, AWS, Git",2,0,QA Engineer,1,72,55,65,Not Placed
+Harsh Mehta,Chandigarh University,ECE,8.93,"Java, Python, C++, SQL, Excel, Pandas, Git",3,0,Frontend Developer,2,84,60,82,Placed
+Arjun Agarwal,GLA University,AI & DS,8.37,"MongoDB, C++, AWS, Linux",2,0,QA Engineer,2,92,61,70,Not Placed
+Shivam Kumar,Amity,CSE,9.16,"FastAPI, Git, Docker, Flask, React",4,1,Android Developer,4,66,83,86,Placed
+Dhruv Nair,IIIT Lucknow,AIML,8.32,"Python, React, Power BI, Flask, JavaScript, HTML, Excel",1,1,Android Developer,2,93,63,70,Not Placed
+Muskan Sinha,SRM,EEE,6.78,"CSS, TensorFlow, NumPy, JavaScript, FastAPI, Pandas",3,1,Product Engineer,2,71,68,60,Not Placed
+Neil Chauhan,GLA University,EEE,8.47,"SQL, AWS, HTML, Excel",3,1,ML Engineer,5,63,78,79,Placed
+Myra Nair,Jaypee,CE,6.77,"PyTorch, Power BI, SQL, Python",4,0,Backend Developer,3,70,75,65,Not Placed
+Rudra Tripathi,KIET,AIML,7.81,"Flask, MongoDB, Power BI, JavaScript",2,1,Cyber Security Analyst,0,67,57,72,Not Placed
+Pooja Nigam,Manipal Jaipur,AIML,7.98,"C++, PyTorch, Azure, Python, React",0,0,Backend Developer,1,92,48,62,Not Placed
+Palak Pandey,AKGEC,CSE,8.31,"NumPy, Git, TensorFlow, Node.js, MongoDB",3,0,Data Analyst,3,83,69,78,Placed
+Kabir Nair,GLA University,ECE,9.18,"Pandas, Linux, CSS, PyTorch, Flask, Power BI, C++",3,1,Full Stack Developer,2,74,68,83,Placed
+Ayush Arora,"JSS Academy of Technical Education, Noida",EEE,8.16,"C++, TensorFlow, SQL, Python, React, Java",1,0,Cloud Engineer,1,66,50,63,Not Placed
+Tanvi Reddy,KIET,CE,8.06,"HTML, Python, React, NumPy, Docker",2,0,AI Engineer,1,90,53,75,Placed
+Om Gupta,SRM,CSE,8.87,"TensorFlow, Excel, Power BI, NumPy, React, HTML, Flask",3,1,Data Analyst,1,71,72,81,Placed
+Dhruv Srivastava,KIET,EEE,6.59,"C++, Pandas, NumPy, Linux, AWS",4,1,Cyber Security Analyst,1,92,72,71,Not Placed
+Yash Kulkarni,VIT Vellore,CSE,9.3,"HTML, SQL, Pandas, Azure, Python, Node.js",3,1,Cyber Security Analyst,1,85,66,79,Placed
+Priyanshi Kumar,SRM,CE,8.04,"JavaScript, HTML, Flask, Java, Azure, NumPy",3,0,Data Scientist,5,69,67,77,Placed
+Vivaan Jain,"JSS Academy of Technical Education, Noida",CSE,8.93,"FastAPI, Excel, Pandas, PyTorch, Power BI",3,0,Frontend Developer,1,60,63,73,Not Placed
+Nikhil Sethi,Amity,IT,6.88,"Node.js, AWS, NumPy, Excel, React",2,1,Cyber Security Analyst,2,74,66,62,Not Placed
+Simran Pandey,SRM,AIML,7.71,"SQL, CSS, Excel, Python, React",2,1,Python Developer,1,84,64,73,Not Placed
+Myra Jain,"JSS Academy of Technical Education, Noida",EEE,7.11,"MongoDB, FastAPI, Flask, Python, Azure, Docker, Pandas",2,0,Full Stack Developer,2,75,63,60,Not Placed
+Kavya Bansal,VIT Vellore,CE,7.7,"Python, Flask, Azure, HTML, FastAPI",2,1,Android Developer,1,66,60,67,Not Placed
+Ankit Chopra,SRM,EEE,9.39,"Azure, Node.js, Pandas, C++, JavaScript, Flask",3,0,Data Analyst,1,71,58,73,Not Placed
+Tanvi Patel,Jaypee,IT,8.28,"Flask, C++, Node.js, PyTorch, CSS",3,2,AI Engineer,1,86,76,78,Placed
+Sara Pillai,Thapar,AIML,7.2,"HTML, Flask, Azure, Java, PyTorch, FastAPI",3,1,Android Developer,0,69,65,66,Not Placed
+Zoya Kumar,GLA University,EEE,8.15,"FastAPI, MongoDB, Azure, React, Python, TensorFlow",5,1,QA Engineer,1,69,80,80,Placed
+Myra Nigam,ABES,CE,9.58,"AWS, C++, HTML, Excel, NumPy, MongoDB",1,1,Full Stack Developer,1,63,56,72,Not Placed
+Meera Das,AKGEC,EEE,6.99,"Pandas, PyTorch, Node.js, Python",2,0,Python Developer,2,69,57,66,Not Placed
+Aryan Mehta,Amity,ME,7.35,"React, PyTorch, JavaScript, TensorFlow, Docker, Linux, FastAPI",4,0,Frontend Developer,0,72,68,72,Not Placed
+Simran Tripathi,Thapar,EEE,6.55,"Power BI, React, AWS, Docker",1,0,Frontend Developer,0,86,54,57,Not Placed
+Ayaan Tripathi,GLA University,ECE,7.12,"Python, Linux, SQL, Docker",2,1,Cloud Engineer,2,88,69,69,Not Placed
+Meera Mishra,Amity,ECE,7.79,"FastAPI, Flask, Azure, PyTorch",3,1,Data Scientist,2,81,73,70,Not Placed
+Parth Pandey,GLA University,ECE,7.3,"PyTorch, Node.js, Linux, MongoDB, Docker, Excel",2,0,Database Engineer,2,81,57,67,Not Placed
+Nisha Ghosh,IIIT Lucknow,EEE,7.66,"CSS, HTML, FastAPI, PyTorch, Git",5,0,Cloud Engineer,0,69,69,74,Not Placed
+Vihaan Dubey,Bennett University,CE,8.41,"MongoDB, JavaScript, Power BI, Excel",3,0,Java Developer,4,92,70,83,Placed
+Parth Sethi,Chandigarh University,AIML,9.8,"Python, HTML, JavaScript, MongoDB",2,0,Android Developer,3,65,61,83,Not Placed
+Tanvi Chauhan,ABES,IT,8.39,"Python, Azure, TensorFlow, NumPy, Pandas, C++, JavaScript",2,0,Android Developer,3,86,63,75,Placed
+Rudra Bansal,ABES,CSE,7.78,"NumPy, FastAPI, React, Node.js, PyTorch",2,1,Product Engineer,1,94,59,71,Not Placed
+Nisha Das,Thapar,ECE,8.33,"Azure, PyTorch, NumPy, Power BI, Docker, Pandas, C++",2,1,Software Engineer,3,88,64,76,Placed
+Ansh Tripathi,"JSS Academy of Technical Education, Noida",CSE,9.01,"Docker, Power BI, Python, Node.js",1,0,Full Stack Developer,2,91,53,81,Placed
+Abhishek Singh,SRM,AI & DS,8.25,"Power BI, C++, Pandas, JavaScript, Node.js",3,1,Full Stack Developer,3,75,73,73,Not Placed
+Sanya Goel,Chandigarh University,AI & DS,7.13,"NumPy, CSS, Java, Excel, MongoDB",1,0,Software Engineer,2,92,52,58,Not Placed
+Khushi Bansal,KIET,ECE,7.83,"JavaScript, React, Pandas, HTML, TensorFlow, Docker",3,0,Data Scientist,0,58,60,63,Not Placed
+Parth Sinha,ABES,IT,8.14,"C++, Linux, React, Pandas",3,0,Product Engineer,0,69,59,70,Not Placed
+Kavya Bhat,AKGEC,CE,7.17,"AWS, FastAPI, TensorFlow, Linux, React",1,2,Data Scientist,1,80,67,61,Not Placed
+Arjun Tripathi,Amity,AI & DS,7.15,"Flask, TensorFlow, PyTorch, Node.js",5,1,Data Analyst,2,87,77,80,Placed
+Riya Rao,Manipal Jaipur,ECE,9.14,"React, Node.js, HTML, Excel, Power BI, NumPy",1,1,Python Developer,3,86,65,84,Placed
+Aman Mishra,Thapar,AIML,7.76,"CSS, TensorFlow, NumPy, JavaScript, Node.js, React",3,0,Python Developer,2,84,61,67,Not Placed
+Zoya Shukla,Thapar,EEE,7.29,"Python, TensorFlow, JavaScript, NumPy",3,1,DevOps Engineer,0,90,64,73,Not Placed
+Neil Pandey,"JSS Academy of Technical Education, Noida",CSE,8.11,"Linux, SQL, HTML, Excel, MongoDB, Docker",0,0,AI Engineer,1,69,48,55,Not Placed
+Kavya Tiwari,Jaypee,EEE,8.08,"NumPy, Git, AWS, Flask, TensorFlow",2,0,Cyber Security Analyst,2,60,59,62,Not Placed
+Aditya Bhat,KIET,CE,7.88,"Flask, Azure, Linux, Power BI, TensorFlow",2,0,Full Stack Developer,3,70,63,71,Not Placed
+Ira Ghosh,KIET,CE,7.16,"Git, AWS, React, Docker",1,1,DevOps Engineer,2,85,56,65,Not Placed
+Aryan Dubey,Amity,AIML,7.81,"Docker, PyTorch, FastAPI, Pandas, Azure",4,0,Business Analyst,5,87,79,76,Not Placed
+Riya Reddy,Galgotias University,ECE,7.86,"MongoDB, Flask, JavaScript, Power BI, Node.js, React, Pandas",2,1,Data Scientist,4,61,66,76,Placed
+Aman Dubey,Jaypee,EEE,8.08,"Power BI, Python, Java, SQL, CSS, Flask, Pandas",3,0,Data Scientist,1,83,59,69,Not Placed
+Zoya Chauhan,GLA University,AI & DS,6.09,"Java, MongoDB, Excel, AWS, Docker, Pandas, Node.js",4,1,Database Engineer,1,83,76,63,Not Placed
+Tanish Ghosh,Galgotias University,ECE,6.98,"SQL, TensorFlow, HTML, Git, Azure",2,1,Java Developer,0,95,63,73,Not Placed
+Nisha Jain,Manipal Jaipur,AIML,7.83,"NumPy, Git, SQL, HTML, TensorFlow, Node.js",2,1,Data Analyst,1,58,62,62,Not Placed
+Ira Tripathi,IIIT Lucknow,ECE,9.11,"Flask, React, Python, MongoDB",3,0,DevOps Engineer,3,65,68,81,Placed
+Diya Gupta,KIET,IT,8.6,"Python, CSS, React, HTML, NumPy, C++, Linux",2,1,Business Analyst,2,78,62,73,Not Placed
+Ira Malhotra,Bennett University,CE,7.54,"AWS, Pandas, C++, Linux, Excel, HTML",2,0,Python Developer,2,87,58,62,Not Placed
+Ayush Bhatt,ABES,AIML,7.33,"Node.js, Pandas, PyTorch, JavaScript, Python",0,0,Data Scientist,0,58,49,46,Not Placed
+Vivaan Srivastava,Chandigarh University,AIML,9.26,"Excel, SQL, HTML, React, Git",4,2,Business Analyst,2,74,78,95,Not Placed
+Ansh Nair,ABES,IT,7.31,"Pandas, TensorFlow, Linux, SQL",3,0,Python Developer,1,63,65,56,Not Placed
+Parth Tiwari,Amity,CE,8.72,"TensorFlow, JavaScript, Java, C++, Linux, Git",3,0,Product Engineer,3,73,64,80,Placed
+Aditi Srivastava,KIET,EEE,6.22,"SQL, Azure, Pandas, AWS, Power BI, NumPy, Excel",4,0,Python Developer,0,62,65,58,Not Placed
+Sarthak Goel,Chandigarh University,AIML,8.92,"Flask, MongoDB, Azure, Excel, TensorFlow, Docker, PyTorch",3,0,Software Engineer,1,75,66,70,Not Placed
+Nikhil Bhat,Amity,ECE,8.38,"CSS, Docker, Git, HTML",1,1,Database Engineer,0,83,52,68,Not Placed
+Ankit Patel,GLA University,ECE,6.44,"Node.js, Power BI, Python, Git",4,0,Python Developer,0,67,69,58,Not Placed
+Ayush Sethi,Amity,ECE,7.16,"TensorFlow, C++, Flask, Azure",0,1,DevOps Engineer,1,79,57,60,Not Placed
+Ansh Sinha,Jaypee,AI & DS,6.91,"JavaScript, Linux, Docker, SQL, TensorFlow",2,2,Database Engineer,2,95,70,80,Placed
+Shivam Singh,ABES,AI & DS,7.31,"SQL, Azure, Git, Power BI, NumPy",1,2,Product Engineer,0,89,58,70,Not Placed
+Dev Gupta,ABES,ECE,8.34,"HTML, JavaScript, CSS, Git, Azure",3,0,Software Engineer,2,75,60,79,Placed
+Aman Tripathi,VIT Vellore,EEE,8.06,"Excel, Azure, HTML, AWS, Git, Power BI",1,0,Full Stack Developer,1,88,51,67,Not Placed
+Myra Joshi,Jaypee,AI & DS,6.25,"NumPy, Power BI, React, Pandas, Linux",1,0,Cloud Engineer,3,65,55,50,Not Placed
+Aman Verma,Jaypee,CSE,7.83,"MongoDB, Azure, FastAPI, C++, NumPy, Linux, Pandas",2,0,ML Engineer,2,92,55,75,Placed
+Ritika Menon,"JSS Academy of Technical Education, Noida",EEE,8.73,"CSS, HTML, Node.js, Linux, Power BI",3,1,Data Scientist,1,60,65,72,Not Placed
+Ira Sharma,ABES,AI & DS,6.87,"Power BI, AWS, SQL, NumPy",1,0,Software Engineer,3,86,60,67,Not Placed
+Shivam Gupta,ABES,EEE,7.67,"HTML, Node.js, Python, Docker",2,0,QA Engineer,2,85,59,67,Not Placed
+Avni Sharma,Thapar,AIML,8.73,"CSS, Python, Power BI, Linux",2,1,DevOps Engineer,2,65,61,80,Placed
+Palak Agarwal,VIT Vellore,AIML,7.03,"Pandas, React, TensorFlow, Python, PyTorch, Node.js, Excel",2,0,Business Analyst,2,83,59,65,Not Placed
+Sanya Kumar,Thapar,IT,7.54,"Azure, PyTorch, Linux, JavaScript, CSS, React, Node.js",2,1,Business Analyst,2,76,64,69,Not Placed
+Parth Arora,VIT Vellore,AI & DS,8.1,"React, TensorFlow, CSS, AWS, JavaScript, Python",1,0,Data Scientist,1,71,49,63,Not Placed
+Kabir Goel,Manipal Jaipur,CSE,8.45,"MongoDB, PyTorch, C++, FastAPI, JavaScript",3,0,Database Engineer,1,78,66,70,Not Placed
+Tanish Agarwal,Thapar,CSE,8.23,"Node.js, Docker, Java, Power BI",0,2,Database Engineer,1,79,59,77,Not Placed
+Myra Kulkarni,KIET,AIML,6.72,"Excel, SQL, Azure, Java, TensorFlow",1,1,Python Developer,2,86,61,57,Not Placed
+Kabir Sharma,Manipal Jaipur,CSE,8.05,"FastAPI, C++, Linux, Docker, Git, SQL, Python",1,0,ML Engineer,3,85,58,68,Not Placed
+Aryan Saxena,"JSS Academy of Technical Education, Noida",AI & DS,7.42,"Power BI, PyTorch, AWS, JavaScript, Pandas",3,0,Python Developer,2,62,63,69,Not Placed
+Ritika Reddy,GLA University,EEE,7.28,"JavaScript, FastAPI, NumPy, PyTorch",4,1,Software Engineer,1,78,71,69,Not Placed
+Sara Chawla,IIIT Lucknow,AI & DS,9.06,"SQL, CSS, Node.js, React, C++, Git",4,2,QA Engineer,1,69,75,84,Placed
+Parth Chauhan,Thapar,ECE,8.33,"Azure, PyTorch, C++, Docker, AWS, Java",2,1,Product Engineer,1,68,61,71,Not Placed
+Ishita Singh,AKGEC,AIML,7.16,"FastAPI, TensorFlow, Flask, Excel, SQL, PyTorch, Azure",2,2,Data Analyst,2,70,69,65,Not Placed
+Aditya Chopra,GLA University,ECE,7.43,"MongoDB, React, Power BI, FastAPI, NumPy",5,0,Product Engineer,3,87,72,81,Placed
+Diya Srivastava,KIET,CSE,6.28,"MongoDB, Excel, JavaScript, FastAPI, Flask, Git",1,0,Data Scientist,0,70,53,54,Not Placed
+Aditya Sinha,IIIT Lucknow,CSE,7.82,"JavaScript, NumPy, C++, Excel, Python, Azure",3,1,Python Developer,1,85,69,71,Not Placed
+Nisha Mishra,SRM,AI & DS,5.96,"C++, Azure, Python, Docker",2,2,Cloud Engineer,0,77,66,60,Not Placed
+Palak Arora,IIIT Lucknow,AIML,8.62,"MongoDB, TensorFlow, Pandas, React, HTML",1,0,Cyber Security Analyst,2,63,57,68,Not Placed
+Nikhil Verma,Manipal Jaipur,CE,8.79,"FastAPI, SQL, Flask, React",3,2,Data Scientist,2,75,78,83,Placed
+Ansh Dubey,SRM,CSE,6.72,"Power BI, CSS, C++, Excel, AWS, Node.js",2,1,DevOps Engineer,1,69,60,65,Not Placed
+Sara Tripathi,Chandigarh University,ECE,8.03,"Pandas, SQL, MongoDB, Docker",0,2,Data Scientist,1,75,58,69,Not Placed
+Sara Joshi,"JSS Academy of Technical Education, Noida",ME,6.64,"Node.js, SQL, Git, AWS, MongoDB, TensorFlow, Pandas",2,0,Frontend Developer,1,80,59,58,Not Placed
+Dhruv Sethi,Galgotias University,EEE,7.61,"Python, Node.js, PyTorch, Pandas, NumPy",3,1,Data Scientist,4,92,74,82,Placed
+Tanvi Malhotra,IIIT Lucknow,ME,9.08,"Power BI, PyTorch, C++, FastAPI, Flask, Node.js, Linux",2,2,AI Engineer,1,84,73,81,Placed
+Nikhil Chauhan,ABES,AI & DS,8.29,"MongoDB, SQL, HTML, Java",1,1,Cloud Engineer,4,88,64,73,Not Placed
+Sakshi Menon,Galgotias University,ECE,9.41,"Flask, NumPy, HTML, Excel, Power BI, Node.js",3,1,Frontend Developer,0,67,63,74,Not Placed
+Yash Goel,Galgotias University,CE,8.39,"Docker, Pandas, React, PyTorch, SQL, Java",5,0,Business Analyst,1,76,73,81,Placed
+Ayush Chauhan,Bennett University,IT,7.87,"JavaScript, Power BI, MongoDB, Linux, Pandas, Git",0,0,Database Engineer,2,94,53,70,Not Placed
+Sanya Chopra,SRM,AIML,7.29,"Flask, React, MongoDB, JavaScript, Java, Pandas",4,0,ML Engineer,2,70,66,70,Not Placed
+Ayush Kapoor,AKGEC,CSE,8.61,"FastAPI, PyTorch, Pandas, AWS, NumPy, Excel",4,2,ML Engineer,0,77,78,83,Placed
+Sneha Tripathi,SRM,AIML,7.81,"JavaScript, Java, Azure, C++, Flask, TensorFlow, Docker",1,1,QA Engineer,3,81,65,72,Not Placed
+Om Kapoor,IIIT Lucknow,IT,8.81,"Linux, Git, Node.js, TensorFlow, Pandas",3,1,Java Developer,3,72,69,77,Placed
+Om Arora,Amity,IT,7.67,"CSS, Flask, Node.js, C++, AWS, TensorFlow",3,1,Android Developer,1,95,70,81,Placed
+Om Tiwari,Jaypee,CE,6.0,"FastAPI, Flask, TensorFlow, SQL, HTML, React",4,0,Cyber Security Analyst,2,70,70,63,Not Placed
+Rudra Menon,Amity,AI & DS,7.85,"Java, JavaScript, Flask, TensorFlow, C++",1,1,Product Engineer,2,58,62,67,Not Placed
+Ananya Joshi,Manipal Jaipur,ECE,6.9,"Docker, Pandas, HTML, MongoDB, C++",1,0,Data Analyst,1,83,52,64,Not Placed
+Reyansh Verma,GLA University,AIML,6.3,"JavaScript, Docker, React, HTML",2,0,Business Analyst,2,89,63,59,Not Placed
+Kabir Bansal,Galgotias University,ME,8.39,"JavaScript, TensorFlow, CSS, Excel",1,0,Data Analyst,2,93,54,72,Not Placed
+Aditi Dubey,SRM,AIML,7.02,"Git, Docker, C++, SQL, Java, MongoDB",2,0,Product Engineer,0,76,53,60,Not Placed
+Akash Srivastava,"JSS Academy of Technical Education, Noida",IT,7.83,"PyTorch, FastAPI, NumPy, Power BI, Docker, Java, Git",4,1,Android Developer,0,84,73,74,Not Placed
+Aryan Das,"JSS Academy of Technical Education, Noida",AIML,8.13,"Node.js, Flask, Azure, Git, C++, Pandas",3,0,AI Engineer,2,82,66,80,Placed
+Ritika Srivastava,Amity,CE,7.31,"React, Python, TensorFlow, JavaScript",2,1,QA Engineer,1,62,63,67,Not Placed

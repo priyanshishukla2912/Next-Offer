@@ -1,0 +1,9 @@
+groq
+streamlit
+pandas
+plotly
+scikit-learn
+joblib
+PyPDF2
+numpy
+sqlite3 
