@@ -1,1 +1,19 @@
+# Streamlit Secrets
 .streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.env/
+
+# SQLite Database
+*.db
+
+# VS Code
+.vscode/
+
+# OS Files
+.DS_Store
